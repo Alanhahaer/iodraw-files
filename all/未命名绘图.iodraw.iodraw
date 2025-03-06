@@ -62,7 +62,7 @@
           <mxGeometry y="42.140259740259744" width="40.52" height="20.25974025974026" as="geometry" />
         </mxCell>
         <mxCell id="VfXJBWrrd9QV_ok8Qy2q-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="460" y="73.12" width="39.48" height="57.9" as="geometry" />
+          <mxGeometry x="460" y="78.12" width="39.48" height="57.9" as="geometry" />
         </mxCell>
         <mxCell id="VfXJBWrrd9QV_ok8Qy2q-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Globe_Warning.svg;" vertex="1" parent="VfXJBWrrd9QV_ok8Qy2q-19">
           <mxGeometry x="2.6319999999999997" width="36.84545454545455" height="43.425" as="geometry" />
@@ -516,12 +516,6 @@
         </mxCell>
         <mxCell id="VfXJBWrrd9QV_ok8Qy2q-132" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-94.85" y="300" width="824.85" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="VfXJBWrrd9QV_ok8Qy2q-133" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.584;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="337" y="104" as="sourcePoint" />
-            <mxPoint x="337" y="126" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
