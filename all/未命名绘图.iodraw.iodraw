@@ -44,7 +44,7 @@
           <mxGeometry x="22" y="156.3" width="125" height="43.6" as="geometry" />
         </mxCell>
         <mxCell id="VfXJBWrrd9QV_ok8Qy2q-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-75" y="150" width="51.67" height="77.5" as="geometry" />
+          <mxGeometry x="-62" y="150" width="51.67" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="VfXJBWrrd9QV_ok8Qy2q-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Globe_Success.svg;" vertex="1" parent="VfXJBWrrd9QV_ok8Qy2q-13">
           <mxGeometry x="3.44" y="10" width="39.74" height="46.83" as="geometry" />
