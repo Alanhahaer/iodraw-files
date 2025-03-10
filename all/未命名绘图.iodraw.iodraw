@@ -115,7 +115,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QUjh0Y6dFwmZjvqJnS6a-1" value="FAQ" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.faq;" vertex="1" parent="1">
+        <mxCell id="QUjh0Y6dFwmZjvqJnS6a-1" value="Config" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.faq;" vertex="1" parent="1">
           <mxGeometry x="60" y="430" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
