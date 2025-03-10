@@ -119,7 +119,7 @@
           <mxGeometry x="60" y="430" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QUjh0Y6dFwmZjvqJnS6a-3" value="Word-of-Mouth" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/miscellaneous-iii-outline-style/150/chat-1024.png;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="106" y="630" width="54" height="54" as="geometry" />
+          <mxGeometry x="106" y="620" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
