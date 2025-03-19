@@ -125,10 +125,13 @@
           <mxGeometry x="30" y="714" width="60" height="54.6" as="geometry" />
         </mxCell>
         <mxCell id="FkLJjwdBlsmbw0KS_Up1-1" value="用户评论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="-750" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FkLJjwdBlsmbw0KS_Up1-2" value="用户评论" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Cache_Redis.svg;" vertex="1" parent="1">
           <mxGeometry x="-600" y="50" width="70" height="56.88" as="geometry" />
+        </mxCell>
+        <mxCell id="FkLJjwdBlsmbw0KS_Up1-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/IoT_Hub.svg;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="30" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
