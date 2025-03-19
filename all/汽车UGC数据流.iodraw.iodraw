@@ -133,6 +133,12 @@
         <mxCell id="FkLJjwdBlsmbw0KS_Up1-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/IoT_Hub.svg;" vertex="1" parent="1">
           <mxGeometry x="-440" y="30" width="64" height="64" as="geometry" />
         </mxCell>
+        <mxCell id="FkLJjwdBlsmbw0KS_Up1-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Device_Provisioning_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="144" width="64" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FkLJjwdBlsmbw0KS_Up1-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/web/API_Center.svg;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="94" width="68" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
