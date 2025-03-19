@@ -139,6 +139,9 @@
         <mxCell id="FkLJjwdBlsmbw0KS_Up1-5" value="场景" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/web/API_Center.svg;" vertex="1" parent="1">
           <mxGeometry x="-450" y="20" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FkLJjwdBlsmbw0KS_Up1-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="-300" y="120" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
