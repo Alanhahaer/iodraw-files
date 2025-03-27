@@ -112,6 +112,12 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-39" value="竞争分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-270" y="920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-40" value="Kano" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-41" value="Kano" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
