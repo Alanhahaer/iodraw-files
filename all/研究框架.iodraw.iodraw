@@ -46,7 +46,7 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-15" value="考虑用车场景的汽车推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-16" value="考虑用车场景的汽车推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-16" value="基于用户满意场景的营销" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
