@@ -59,7 +59,7 @@
           <mxGeometry x="370" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-22" value="同等价位下的汽车推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-23" value="考虑家庭用户需求的汽车推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="570" width="120" height="60" as="geometry" />
