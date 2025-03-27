@@ -130,7 +130,7 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-47" value="回归" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-48" value="IPA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-48" value="偏相关分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-49" value="SWOT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
