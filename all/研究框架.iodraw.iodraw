@@ -28,6 +28,12 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-8" value="汽车用车、配置&lt;div&gt;问答数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-9" value="应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-10" value="应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
