@@ -49,6 +49,9 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-16" value="基于用户满意场景的营销" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-18" value="应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
