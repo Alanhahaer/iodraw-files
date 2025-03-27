@@ -43,7 +43,7 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-14" value="考虑家庭用户需求的汽车推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-15" value="考虑家庭用户需求的汽车推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-15" value="考虑用车场景的汽车推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
