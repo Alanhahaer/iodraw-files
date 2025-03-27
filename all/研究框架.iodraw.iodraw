@@ -19,8 +19,8 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-5" value="最优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-6" value="最优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-6" value="深度学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
