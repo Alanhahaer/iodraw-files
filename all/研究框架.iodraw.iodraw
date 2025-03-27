@@ -175,7 +175,7 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-66" value="口碑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-68" value="硬件比对" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-68" value="口碑＋问答+反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
