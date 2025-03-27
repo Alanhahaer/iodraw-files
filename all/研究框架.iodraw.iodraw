@@ -52,8 +52,17 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-18" value="与其他方法的&lt;div&gt;对比验证&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-19" value="与其他方法的&lt;div&gt;对比验证&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-20" value="汽车竞争力分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-21" value="研发改进分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-22" value="同等价位下的汽车推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-23" value="考虑家庭用户需求的汽车推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
