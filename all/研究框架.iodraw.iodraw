@@ -191,13 +191,13 @@
           <mxGeometry x="370" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-75" value="基于在线评论的产品竞争挖掘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="670" width="680" height="60" as="geometry" />
+          <mxGeometry x="947" y="540" width="680" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-76" value="融合竞争关系与改进复杂度的产品研发优先级排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="901" y="930" width="680" height="60" as="geometry" />
+          <mxGeometry x="948" y="800" width="680" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-77" value="考虑用户需求的汽车推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="901" y="1210" width="680" height="60" as="geometry" />
+          <mxGeometry x="948" y="1080" width="680" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
