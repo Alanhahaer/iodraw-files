@@ -218,7 +218,7 @@
           <mxGeometry x="1000" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-83" value="场景类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1780" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-84" value="竞争得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1100" width="120" height="60" as="geometry" />
@@ -227,13 +227,13 @@
           <mxGeometry x="1000" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-86" value="难度得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="2010" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-87" value="额外的关注（问答、质量反馈）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-88" value="家庭成员需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1440" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-94" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1950" y="436" width="90" height="120" as="geometry" />
@@ -339,7 +339,7 @@
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-135" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;strokeColor=default;fillColor=#60a917;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="1870" as="sourcePoint" />
+            <mxPoint x="910" y="2362.9091796875" as="sourcePoint" />
             <mxPoint x="910" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -452,7 +452,7 @@
           <mxGeometry x="1222.5" y="2090" width="295" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-171" value="场景类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1881" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="1881" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
