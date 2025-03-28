@@ -307,7 +307,7 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-124" value="消极" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2045" y="1210" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-125" value="基于场景与使用群体需求的需求分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-125" value="基于场景和用户使用需求的产品推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="1820" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-126" value="基于产品特征维度的Kano-IPA分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
