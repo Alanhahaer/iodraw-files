@@ -206,31 +206,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-79" value="情感值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-80" value="维度类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-82" value="我计算得到，贡献" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="910" y="535" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="465" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-83" value="场景类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-84" value="竞争得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-85" value="重要性得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-86" value="难度得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1110" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-87" value="额外的关注（问答、质量反馈）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1210" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-88" value="家庭成员需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1310" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
