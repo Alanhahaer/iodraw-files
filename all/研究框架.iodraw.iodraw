@@ -199,7 +199,7 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-76" value="融合竞争关系与改进复杂度的产品研发优先级排序，在场景下的改进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1222.5" y="1930" width="295" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-78" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-78" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="640" as="sourcePoint" />
             <mxPoint x="-480" y="640" as="targetPoint" />
@@ -463,7 +463,7 @@
             <mxPoint x="725" y="2290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-175" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-175" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="550.29" as="sourcePoint" />
             <mxPoint x="-470" y="550.29" as="targetPoint" />
