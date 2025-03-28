@@ -325,11 +325,11 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-129" value="重要性得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2018" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-130" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.25758192274308084;arrowSize=0.1900010172526072;" vertex="1" parent="1">
-          <mxGeometry x="2046" y="1500" width="60" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-131" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;rotation=90;arrowWidth=0.23674011230465908;arrowSize=0.0964769849590171;" vertex="1" parent="1">
           <mxGeometry x="2074" y="1482" width="32" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-132" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;rotation=90;arrowWidth=0.23674011230465908;arrowSize=0.0964769849590171;" vertex="1" parent="1">
+          <mxGeometry x="2064" y="1510" width="32" height="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
