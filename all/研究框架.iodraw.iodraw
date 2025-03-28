@@ -193,6 +193,9 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-75" value="基于在线评论的产品需求挖掘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1224" y="392" width="680" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tl88_0A_4ZvQGJ0fmCUT-76" target="Tl88_0A_4ZvQGJ0fmCUT-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-76" value="融合竞争关系与改进复杂度的产品研发优先级排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1222.5" y="1930" width="295" height="130" as="geometry" />
         </mxCell>
@@ -441,6 +444,9 @@
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-166" value="基于竞争强度，有的产商在某个维度短期内不会超过竞争对说，所以买这个的话会比较满足。&lt;div&gt;在某些场景下，用户很满意，所以比较适合。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1575" y="2090" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-167" value="融合竞争关系与改进复杂度的产品研发优先级排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1222.5" y="2090" width="295" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
