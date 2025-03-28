@@ -406,8 +406,8 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-155" value="找出真正有意义的评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2735" y="471" width="170" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-156" value="找出真正有意义的评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2735" y="759" width="170" height="35" as="geometry" />
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-156" value="在语义复杂的情况下，找出评论涉及的角度类别，为后续的分析提供优质的数据支撑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="759" width="185" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
