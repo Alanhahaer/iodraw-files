@@ -196,7 +196,7 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tl88_0A_4ZvQGJ0fmCUT-76" target="Tl88_0A_4ZvQGJ0fmCUT-167">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-76" value="融合竞争关系与改进复杂度的产品研发优先级排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-76" value="融合竞争关系与改进复杂度的产品研发优先级排序，在场景下的改进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1222.5" y="1930" width="295" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-77" value="考虑用户需求的汽车推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -227,7 +227,7 @@
           <mxGeometry x="1020" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-86" value="难度得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1440" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="2010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-87" value="额外的关注（问答、质量反馈）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1540" width="120" height="60" as="geometry" />
@@ -450,6 +450,9 @@
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-167" value="在竞争关系与" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1222.5" y="2090" width="295" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-171" value="场景类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1881" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
