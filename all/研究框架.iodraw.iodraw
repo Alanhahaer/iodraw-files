@@ -190,8 +190,8 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-73" value="重要性+绩效+竞争&lt;div&gt;+难度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-75" value="基于在线评论的产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="670" width="680" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
