@@ -50,7 +50,7 @@
           <mxGeometry x="440" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-18" value="与其他方法的&lt;div&gt;对比验证&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="566" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-20" value="人工构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="660" width="120" height="60" as="geometry" />
@@ -153,7 +153,7 @@
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-58" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="1400" as="sourcePoint" />
+            <mxPoint x="140" y="1440" as="sourcePoint" />
             <mxPoint x="140" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
