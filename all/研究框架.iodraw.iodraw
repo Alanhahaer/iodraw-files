@@ -394,8 +394,11 @@
             <mxPoint x="2950" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-152" value="情感分析更准确&lt;div&gt;适用于汽车领域&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-152" value="BERT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2390" y="1075" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-153" value="BERT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="1330" width="170" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
