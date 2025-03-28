@@ -311,7 +311,7 @@
           <mxGeometry x="2012" y="1190" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-125" value="融合竞争关系与改进复杂度的产品研发优先级排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1610" width="680" height="60" as="geometry" />
+          <mxGeometry x="1239" y="1694" width="680" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-126" value="基于产品特征维度的Kano-IPA分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1242" y="980" width="680" height="60" as="geometry" />
@@ -325,11 +325,14 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-129" value="重要性得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2018" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-131" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;rotation=90;arrowWidth=0.23674011230465908;arrowSize=0.0964769849590171;" vertex="1" parent="1">
-          <mxGeometry x="2074" y="1482" width="32" height="136" as="geometry" />
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-133" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2012" y="1480" width="136" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-132" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;rotation=0;arrowWidth=0.23674011230465908;arrowSize=0.0964769849590171;" vertex="1" parent="1">
-          <mxGeometry x="2074" y="1490" width="32" height="136" as="geometry" />
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-131" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;rotation=90;arrowWidth=0.23674011230465908;arrowSize=0.0964769849590171;" vertex="1" parent="Tl88_0A_4ZvQGJ0fmCUT-133">
+          <mxGeometry x="52" y="-8" width="32" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-132" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;rotation=0;arrowWidth=0.23674011230465908;arrowSize=0.0964769849590171;" vertex="1" parent="Tl88_0A_4ZvQGJ0fmCUT-133">
+          <mxGeometry x="52" width="32" height="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
