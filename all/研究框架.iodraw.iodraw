@@ -221,7 +221,7 @@
           <mxGeometry x="1000" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-84" value="竞争得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-85" value="重要性得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1350" width="120" height="60" as="geometry" />
