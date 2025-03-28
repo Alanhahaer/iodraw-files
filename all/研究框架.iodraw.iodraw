@@ -283,8 +283,11 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-115" value="辅助驾驶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2022" y="720" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-116" value="辅助驾驶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-116" value="智能座舱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2022" y="750" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-117" value="智能座舱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2022" y="780" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
