@@ -281,7 +281,7 @@
           <mxGeometry x="2022" y="680" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-115" value="辅助驾驶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2022" y="720" width="120" height="20" as="geometry" />
+          <mxGeometry x="2022" y="718" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-116" value="智能座舱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2022" y="750" width="120" height="20" as="geometry" />
@@ -294,6 +294,9 @@
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-119" value="驾驶感受" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2022" y="850" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-120" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="645" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
