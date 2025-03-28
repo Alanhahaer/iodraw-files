@@ -296,7 +296,7 @@
           <mxGeometry x="2056" y="926" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-120" value="？？？多分类还是多标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2370" y="730" width="170" height="35" as="geometry" />
+          <mxGeometry x="2390" y="686" width="170" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-121" value="积极" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2047" y="1050" width="128" height="50" as="geometry" />
