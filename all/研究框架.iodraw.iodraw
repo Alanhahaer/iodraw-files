@@ -334,6 +334,9 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-132" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;rotation=0;arrowWidth=0.23674011230465908;arrowSize=0.0964769849590171;" vertex="1" parent="Tl88_0A_4ZvQGJ0fmCUT-133">
           <mxGeometry x="52" width="32" height="136" as="geometry" />
         </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-134" value="我计算得到，贡献" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
