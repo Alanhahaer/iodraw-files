@@ -190,7 +190,7 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-73" value="重要性+绩效+竞争&lt;div&gt;+难度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-75" value="基于在线评论的产品竞争挖掘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-75" value="基于在线评论的产品改进需求挖掘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="535" width="680" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-76" value="融合竞争关系与改进复杂度的产品研发优先级排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -206,16 +206,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-79" value="情感值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-80" value="维度类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-82" value="我计算得到，贡献" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1000" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-83" value="场景类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-84" value="竞争得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1260" width="120" height="60" as="geometry" />
