@@ -439,7 +439,7 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-165" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;用户&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="1680" y="1850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-166" value="基于场景和用户使用需求的产品推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-166" value="基于竞争强度，有的产商在某个维度短期内不会超过竞争对说，所以买这个的话会比较满足。&lt;div&gt;在某些场景下，用户很满意，所以比较适合。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1575" y="2090" width="320" height="130" as="geometry" />
         </mxCell>
       </root>
