@@ -205,7 +205,7 @@
             <mxPoint x="-270" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-79" value="情感值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-79" value="评论类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-80" value="维度类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -215,7 +215,7 @@
           <mxGeometry x="1000" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-83" value="场景类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-84" value="竞争得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1260" width="120" height="60" as="geometry" />
