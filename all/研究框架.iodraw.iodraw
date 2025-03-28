@@ -299,16 +299,16 @@
           <mxGeometry x="2254" y="763.5" width="170" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-121" value="积极" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2015" y="1030" width="128" height="50" as="geometry" />
+          <mxGeometry x="2047" y="1050" width="128" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-122" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1923" y="1050" width="90" height="170" as="geometry" />
+          <mxGeometry x="1955" y="1070" width="90" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-123" value="中立" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2013" y="1110" width="130" height="50" as="geometry" />
+          <mxGeometry x="2045" y="1130" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-124" value="消极" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2013" y="1190" width="130" height="50" as="geometry" />
+          <mxGeometry x="2045" y="1210" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-125" value="融合竞争关系与改进复杂度的产品研发优先级排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1239" y="1694" width="680" height="60" as="geometry" />
@@ -317,16 +317,16 @@
           <mxGeometry x="1242" y="980" width="680" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-127" value="竞争得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2019" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="2051" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-128" value="绩效得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2017" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="2049" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-129" value="重要性得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2019" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="2051" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-133" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2000" y="1500" width="136" height="136" as="geometry" />
+          <mxGeometry x="2032" y="1520" width="136" height="136" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-131" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;rotation=90;arrowWidth=0.23674011230465908;arrowSize=0.0964769849590171;" vertex="1" parent="Tl88_0A_4ZvQGJ0fmCUT-133">
           <mxGeometry x="52" y="-8" width="32" height="136" as="geometry" />
