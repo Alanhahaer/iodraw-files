@@ -205,6 +205,12 @@
             <mxPoint x="-270" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-79" value="SC-LDA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-80" value="相似度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
