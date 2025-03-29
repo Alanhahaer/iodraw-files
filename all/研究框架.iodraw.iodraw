@@ -475,7 +475,7 @@
             <mxPoint x="-480" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-177" value="基于在线评论的产品需求挖掘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-177" value="异常检测，直接发现创意和缺陷等机会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1225" y="876" width="680" height="60" as="geometry" />
         </mxCell>
       </root>
