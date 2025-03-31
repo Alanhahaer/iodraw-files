@@ -481,6 +481,15 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-178" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;对比&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="3040" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-179" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3310" y="2365" as="sourcePoint" />
+            <mxPoint x="3310" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-180" value="找出真正有意义的评论，对研发真正有启发的评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="1225" width="170" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
