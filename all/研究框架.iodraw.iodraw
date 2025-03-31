@@ -487,8 +487,8 @@
             <mxPoint x="3310" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-180" value="找出真正有意义的评论，对研发真正有启发的评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3000" y="1225" width="170" height="35" as="geometry" />
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-180" value="拿新车型验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="1600" width="170" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
