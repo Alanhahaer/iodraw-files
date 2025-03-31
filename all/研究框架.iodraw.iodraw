@@ -488,7 +488,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-180" value="拿新车型验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3030" y="1600" width="170" height="35" as="geometry" />
+          <mxGeometry x="3020" y="1600" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
