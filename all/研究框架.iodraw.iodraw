@@ -260,7 +260,7 @@
           <mxGeometry x="2180" y="516" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-104" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1956" y="616" width="90" height="330" as="geometry" />
+          <mxGeometry x="1956" y="616" width="90" height="294" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-105" value="外观" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2056" y="606" width="120" height="20" as="geometry" />
@@ -288,9 +288,6 @@
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-118" value="操控" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2056" y="892" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-119" value="驾驶感受" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2056" y="926" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-120" value="？？？多分类还是多标签" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2390" y="686" width="170" height="35" as="geometry" />
