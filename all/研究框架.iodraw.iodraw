@@ -190,7 +190,7 @@
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-73" value="重要性+绩效+竞争&lt;div&gt;+难度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-75" value="基于在线评论的产品需求挖掘" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-75" value="基于深度学习的在线评论需求挖掘" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1224" y="392" width="680" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Tl88_0A_4ZvQGJ0fmCUT-76" target="Tl88_0A_4ZvQGJ0fmCUT-167" edge="1">
