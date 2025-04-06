@@ -266,25 +266,25 @@
           <mxGeometry x="2056" y="606" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-106" value="内饰" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2056" y="641" width="120" height="20" as="geometry" />
+          <mxGeometry x="2056" y="634" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-109" value="空间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2056" y="673" width="120" height="20" as="geometry" />
+          <mxGeometry x="2056" y="666" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-110" value="配置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2056" y="710" width="120" height="20" as="geometry" />
+          <mxGeometry x="2056" y="703" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-114" value="续航能耗" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2056" y="748" width="120" height="20" as="geometry" />
+          <mxGeometry x="2056" y="738" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-115" value="辅助驾驶" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2056" y="786" width="120" height="20" as="geometry" />
+          <mxGeometry x="2056" y="776" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-116" value="智能座舱" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2056" y="818" width="120" height="20" as="geometry" />
+          <mxGeometry x="2056" y="808" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-117" value="舒适性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2056" y="848" width="120" height="20" as="geometry" />
+          <mxGeometry x="2056" y="838" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-118" value="操控" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2056" y="892" width="120" height="20" as="geometry" />
