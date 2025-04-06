@@ -559,8 +559,8 @@
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-38" value="Feature Request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2230" y="-235" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d9aR_c9Mz9bARhLEcKYV-39" value="评论评价维度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2056" y="-292.5" width="90" height="30" as="geometry" />
+        <mxCell id="d9aR_c9Mz9bARhLEcKYV-39" value="评论分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="-292.5" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
