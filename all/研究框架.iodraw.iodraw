@@ -227,7 +227,7 @@
           <mxGeometry x="980" y="2030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-87" value="额外的关注（问答、质量反馈）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tl88_0A_4ZvQGJ0fmCUT-88" value="家庭成员需求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="2140" width="120" height="60" as="geometry" />
@@ -543,6 +543,9 @@
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-39" value="评论需求分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2067" y="-295" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9aR_c9Mz9bARhLEcKYV-40" value="额外的关注（问答、质量反馈）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
