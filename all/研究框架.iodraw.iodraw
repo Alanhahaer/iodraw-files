@@ -497,37 +497,37 @@
           <mxGeometry x="2056" y="896" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1966" y="626" width="90" height="294" as="geometry" />
+          <mxGeometry x="2150" y="-710" width="90" height="294" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-5" value="外观" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="616" width="120" height="20" as="geometry" />
+          <mxGeometry x="2250" y="-720" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-6" value="内饰" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="644" width="120" height="20" as="geometry" />
+          <mxGeometry x="2250" y="-690" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-7" value="空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="676" width="120" height="20" as="geometry" />
+          <mxGeometry x="2250" y="-658" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-8" value="配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="713" width="120" height="20" as="geometry" />
+          <mxGeometry x="2250" y="-621" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-9" value="续航能耗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="748" width="120" height="20" as="geometry" />
+          <mxGeometry x="2250" y="-586" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-10" value="辅助驾驶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="786" width="120" height="20" as="geometry" />
+          <mxGeometry x="2250" y="-550" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-11" value="智能座舱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="818" width="120" height="20" as="geometry" />
+          <mxGeometry x="2250" y="-518" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-12" value="舒适性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="848" width="120" height="20" as="geometry" />
+          <mxGeometry x="2250" y="-488" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-13" value="操控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="880" width="120" height="20" as="geometry" />
+          <mxGeometry x="2250" y="-456" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-14" value="驾驶感受" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="906" width="120" height="20" as="geometry" />
+          <mxGeometry x="2250" y="-430" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
