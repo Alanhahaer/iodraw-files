@@ -551,7 +551,7 @@
           <mxGeometry x="1407" y="-810" width="128" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="-790" width="65" height="170" as="geometry" />
+          <mxGeometry x="1337.5" y="-790" width="65" height="170" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-43" value="中立" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1405" y="-730" width="130" height="50" as="geometry" />
@@ -560,7 +560,7 @@
           <mxGeometry x="1405" y="-650" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d9aR_c9Mz9bARhLEcKYV-45" value="评论情感分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="-720" width="90" height="30" as="geometry" />
+          <mxGeometry x="1247.5" y="-720" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
