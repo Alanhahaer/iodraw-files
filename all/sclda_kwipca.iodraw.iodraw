@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="i8jtr06MYyWiaon21f4s">
-    <mxGraphModel dx="619" dy="285" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="748" dy="344" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -995,6 +995,12 @@
         </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-131" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot; face=&quot;Times New Roman&quot;&gt;文本处理&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1040" y="435.3" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KQOOzyiRUQILqUMlH5FI-145" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dimage%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3Ddefault%3BverticalAlign%3Dtop%3Baspect%3Dfixed%3BimageAspect%3D0%3Bimage%3Dhttps%3A%2F%2Fstoriesonboard.com%2Fblog%2Fwp-content%2Fuploads%2F2021%2F05%2Fkano_model-2-2048x1940.png%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221581%22%20y%3D%22699.06%22%20width%3D%2289.96%22%20height%3D%2285.24%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2214" y="697" width="18" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KQOOzyiRUQILqUMlH5FI-146" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://storiesonboard.com/blog/wp-content/uploads/2021/05/kano_model-2-2048x1940.png;" vertex="1" parent="1">
+          <mxGeometry x="2151" y="694.68" width="89.96" height="85.24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
