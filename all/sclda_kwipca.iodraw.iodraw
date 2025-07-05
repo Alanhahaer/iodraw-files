@@ -732,7 +732,7 @@
             <mxPoint x="1371" y="350.3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KQOOzyiRUQILqUMlH5FI-53" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Jieba Word&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Segmentation&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KQOOzyiRUQILqUMlH5FI-53" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;结巴分词&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1390.58" y="386.3" width="190" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-54" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -870,7 +870,7 @@
         <mxCell id="KQOOzyiRUQILqUMlH5FI-89" value="" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=none;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-88">
           <mxGeometry width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="KQOOzyiRUQILqUMlH5FI-90" value="    User Dict" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=10;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-88">
+        <mxCell id="KQOOzyiRUQILqUMlH5FI-90" value="自定义词典" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=10;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-88">
           <mxGeometry x="12" y="4" width="58" height="120" as="geometry">
             <mxRectangle x="542" y="304" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
