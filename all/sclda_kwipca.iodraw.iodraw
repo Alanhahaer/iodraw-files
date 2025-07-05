@@ -28,9 +28,6 @@
             <mxPoint x="-18" y="166.70000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KQOOzyiRUQILqUMlH5FI-156" value="需求识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-74">
-          <mxGeometry x="-60" y="187.70000000000005" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-74">
           <mxGeometry x="96" y="146.7" width="126" height="58.3" as="geometry" />
         </mxCell>
@@ -1022,6 +1019,9 @@
         </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-153" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;+&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="977" y="915.4300000000001" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KQOOzyiRUQILqUMlH5FI-156" value="需求识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1066" y="699.6800000000001" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
