@@ -990,6 +990,9 @@
         <mxCell id="KQOOzyiRUQILqUMlH5FI-132" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="934" y="840.5699999999999" width="820" height="183.73" as="geometry" />
         </mxCell>
+        <mxCell id="KQOOzyiRUQILqUMlH5FI-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KQOOzyiRUQILqUMlH5FI-103" target="KQOOzyiRUQILqUMlH5FI-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
