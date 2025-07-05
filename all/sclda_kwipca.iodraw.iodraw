@@ -802,7 +802,7 @@
         <mxCell id="KQOOzyiRUQILqUMlH5FI-72" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_WAN_Hub.svg;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-71">
           <mxGeometry x="30.347990000000035" width="98.18165436005627" height="96.66693037974686" as="geometry" />
         </mxCell>
-        <mxCell id="KQOOzyiRUQILqUMlH5FI-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Product Attribute Set&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-71">
+        <mxCell id="KQOOzyiRUQILqUMlH5FI-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;产品属性特征集&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-71">
           <mxGeometry y="96.66693037974683" width="158.89" height="23.833069620253166" as="geometry" />
         </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-74" value="" style="group" vertex="1" connectable="0" parent="1">
