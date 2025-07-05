@@ -547,11 +547,6 @@
         <mxCell id="KQOOzyiRUQILqUMlH5FI-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;strokeColor=#EA6B66;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-9">
           <mxGeometry x="5.905625000000001" width="31.13875" height="31.143478260869568" as="geometry" />
         </mxCell>
-        <mxCell id="KQOOzyiRUQILqUMlH5FI-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="KQOOzyiRUQILqUMlH5FI-9" source="KQOOzyiRUQILqUMlH5FI-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30.128303079044144" y="39.62512063419122" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;满意&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-9">
           <mxGeometry x="1" y="27.921739130434784" width="42.95" height="21.478260869565215" as="geometry" />
         </mxCell>
