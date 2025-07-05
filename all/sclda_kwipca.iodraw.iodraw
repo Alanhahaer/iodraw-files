@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KQOOzyiRUQILqUMlH5FI-169" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="929.56" y="1043" width="820" height="136" as="geometry" />
+          <mxGeometry x="936" y="1043" width="813.56" height="149" as="geometry" />
         </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-74" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1138" y="513" width="694" height="327.7003024839744" as="geometry" />
@@ -1077,8 +1077,8 @@
             <mxPoint x="1167" y="1084" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KQOOzyiRUQILqUMlH5FI-181" value="自定义词典" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1168" y="1054.1" width="52.68" height="120" as="geometry">
+        <mxCell id="KQOOzyiRUQILqUMlH5FI-181" value="需求关注度" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1168" y="1064.1" width="52.68" height="120" as="geometry">
             <mxRectangle x="542" y="304" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
