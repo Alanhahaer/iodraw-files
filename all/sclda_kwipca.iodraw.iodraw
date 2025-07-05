@@ -32,13 +32,13 @@
           <mxGeometry x="-60" y="216.70000000000005" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-74">
-          <mxGeometry x="79" y="146.7" width="170" height="63.3" as="geometry" />
+          <mxGeometry x="96" y="146.7" width="126" height="63.3" as="geometry" />
         </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-143" value="情感词" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-74">
           <mxGeometry x="160" y="186.7" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-142" value="属性词" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-74">
-          <mxGeometry x="91.00000000000003" y="186.70000000000005" width="60" height="30" as="geometry" />
+          <mxGeometry x="92.00000000000003" y="180.70000000000005" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-132" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="934" y="840.5699999999999" width="820" height="183.73" as="geometry" />
@@ -892,7 +892,7 @@
           <mxGeometry x="100" y="6" width="29.24" height="36.1" as="geometry" />
         </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-102" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.view_list" vertex="1" parent="KQOOzyiRUQILqUMlH5FI-100">
-          <mxGeometry x="31" y="6" width="30.05" height="37.1" as="geometry" />
+          <mxGeometry x="31" y="-1" width="30.05" height="37.1" as="geometry" />
         </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-104" value="" style="endArrow=none;html=1;rounded=0;entryX=0.452;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KQOOzyiRUQILqUMlH5FI-101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
