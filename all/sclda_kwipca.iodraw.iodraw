@@ -1058,7 +1058,7 @@
           <mxGeometry x="991.9500000000002" y="1103" width="44.1" height="43.7" as="geometry" />
         </mxCell>
         <mxCell id="KQOOzyiRUQILqUMlH5FI-172" value="需求分类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1109" y="769.0000000000001" width="60" height="30" as="geometry" />
+          <mxGeometry x="1108" y="1060" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
