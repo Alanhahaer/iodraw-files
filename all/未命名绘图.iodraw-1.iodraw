@@ -80,8 +80,47 @@
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-27" value="情感" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-29" value="主题分类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-29" value="维度分类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-30" value="需求维度1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="507" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B4ryZxM0ZqtCOOcJc2AE-31" target="B4ryZxM0ZqtCOOcJc2AE-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-31" value="需求……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="507" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-32" value="需求维度n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="507" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-33" value="厂商1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="507" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-34" value="需求维度1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="562" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-35" value="需求……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="562" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-36" value="需求维度n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="562" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-37" value="厂商……" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="562" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-38" value="需求维度1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="617" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-39" value="需求……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="617" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-40" value="需求维度n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="617" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-41" value="厂商n" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="617" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
