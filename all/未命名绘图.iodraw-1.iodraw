@@ -83,8 +83,8 @@
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-27" value="情感" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="325" y="378" width="50" height="30" as="geometry" />
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-29" value="维度分类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
