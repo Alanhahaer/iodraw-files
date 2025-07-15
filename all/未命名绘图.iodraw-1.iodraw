@@ -61,11 +61,16 @@
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-20" value="需求识别" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-45" y="238" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B4ryZxM0ZqtCOOcJc2AE-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-95" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-21" value="需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="400" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-23" value="需求识别" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="370" width="70" height="30" as="geometry" />
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-23" value="需求主题分类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="370" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
