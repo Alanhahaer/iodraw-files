@@ -21,8 +21,8 @@
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-2" value="需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="300" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-3" value="优势比较" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-3" value="情感分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-4" value="劣势" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="580" width="120" height="60" as="geometry" />
