@@ -23,40 +23,40 @@
           <mxGeometry x="190" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-5" value="需求维度1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="540" width="70" height="30" as="geometry" />
+          <mxGeometry x="-180" y="507" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-6" value="需求……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="540" width="70" height="30" as="geometry" />
+          <mxGeometry x="-100" y="507" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-7" value="需求维度n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="540" width="70" height="30" as="geometry" />
+          <mxGeometry x="-20" y="507" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-8" value="厂商1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="-260" y="507" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-11" value="需求维度1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="595" width="70" height="30" as="geometry" />
+          <mxGeometry x="-180" y="562" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-12" value="需求……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="595" width="70" height="30" as="geometry" />
+          <mxGeometry x="-100" y="562" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-13" value="需求维度n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="595" width="70" height="30" as="geometry" />
+          <mxGeometry x="-20" y="562" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-14" value="厂商……" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="595" width="60" height="30" as="geometry" />
+          <mxGeometry x="-260" y="562" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-15" value="需求维度1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="650" width="70" height="30" as="geometry" />
+          <mxGeometry x="-180" y="617" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-16" value="需求……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="650" width="70" height="30" as="geometry" />
+          <mxGeometry x="-100" y="617" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-17" value="需求维度n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="650" width="70" height="30" as="geometry" />
+          <mxGeometry x="-20" y="617" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-18" value="厂商n" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="650" width="60" height="30" as="geometry" />
+          <mxGeometry x="-260" y="617" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-20" value="需求识别" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-45" y="238" width="70" height="30" as="geometry" />
