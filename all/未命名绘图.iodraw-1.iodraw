@@ -64,6 +64,9 @@
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-21" value="需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="400" width="310" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-23" value="需求识别" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
