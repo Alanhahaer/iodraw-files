@@ -94,7 +94,7 @@
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="507" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-32" value="需求维度n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="507" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-33" value="厂商1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -103,10 +103,10 @@
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-34" value="需求维度1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="562" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-35" value="需求……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="562" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-36" value="需求维度n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="562" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-37" value="厂商……" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -118,7 +118,7 @@
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-39" value="需求……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="617" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-40" value="需求维度n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="617" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-41" value="厂商n" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
