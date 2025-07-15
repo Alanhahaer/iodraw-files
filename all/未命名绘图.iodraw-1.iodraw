@@ -77,17 +77,19 @@
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-23" value="需求维度分类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-105" y="370" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B4ryZxM0ZqtCOOcJc2AE-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-27" value="情感" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-29" value="维度分类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-30" value="需求维度1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-30" value="维度1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="507" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B4ryZxM0ZqtCOOcJc2AE-31" target="B4ryZxM0ZqtCOOcJc2AE-29">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-31" value="需求……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="507" width="70" height="30" as="geometry" />
