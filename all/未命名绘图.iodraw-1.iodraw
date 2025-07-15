@@ -80,8 +80,11 @@
         <mxCell id="B4ryZxM0ZqtCOOcJc2AE-23" value="需求主题分类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-105" y="370" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-27" value="维度分类" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-27" value="情感" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ryZxM0ZqtCOOcJc2AE-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="378" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
