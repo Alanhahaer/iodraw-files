@@ -16,6 +16,9 @@
         <mxCell id="Z4wQe-bb0IHAzE420iKD-4" value="多阶段数据融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="180" width="120" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="Z4wQe-bb0IHAzE420iKD-5" value="Kano类型判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="290" width="120" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
