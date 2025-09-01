@@ -43,8 +43,8 @@
             <mxPoint x="314.5" y="304.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z4wQe-bb0IHAzE420iKD-12" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16" y="344" width="120" height="80" as="geometry" />
+        <mxCell id="Z4wQe-bb0IHAzE420iKD-12" value="产品改进建议" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16" y="377" width="120" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
