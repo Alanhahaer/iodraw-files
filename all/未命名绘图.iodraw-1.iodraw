@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z4wQe-bb0IHAzE420iKD-1" value="收集多阶段在线评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z4wQe-bb0IHAzE420iKD-1" value="收集多阶段在线评论&lt;div&gt;（产品购买前、产品购买后）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="34" y="170" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Z4wQe-bb0IHAzE420iKD-2" value="产品属性提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
