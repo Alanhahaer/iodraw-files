@@ -22,6 +22,9 @@
         <mxCell id="Z4wQe-bb0IHAzE420iKD-6" value="改进的IPA模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="192" y="286" width="120" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="Z4wQe-bb0IHAzE420iKD-7" value="改进的IPA模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="286" width="120" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
