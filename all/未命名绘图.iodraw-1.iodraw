@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Q8xJtJLsIjkgaNrf2eOn">
-    <mxGraphModel dx="646" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="753" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,9 +181,6 @@
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-69" value="处于竞争劣势的用户角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="896" y="667.25" width="142" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1232" y="600" width="120" height="111" as="geometry" />
-        </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-71" value="需求挖掘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1388" y="637.5" width="120" height="35" as="geometry" />
         </mxCell>
@@ -199,15 +196,6 @@
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-75" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1087.25" y="670.5" width="103.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-76" value="属性级情感分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="606.5" width="102" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-77" value="产品属性提取" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1240.25" y="635" width="103.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-78" value="产品属性情感分析" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1240.25" y="665.5" width="103.5" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-80" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1045" y="656" as="sourcePoint" />
@@ -218,12 +206,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1200" y="655" as="sourcePoint" />
             <mxPoint x="1232" y="655" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-82" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1354" y="656" as="sourcePoint" />
-            <mxPoint x="1386" y="656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-83" value="产品评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
