@@ -187,8 +187,8 @@
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-72" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1079" y="599" width="120" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-73" value="提取用户角色" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1094" y="605" width="90" height="26" as="geometry" />
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-73" value="构建需求识别模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="605" width="114" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-74" value="用户角色词库构建" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1087.25" y="636" width="103.5" height="20" as="geometry" />
