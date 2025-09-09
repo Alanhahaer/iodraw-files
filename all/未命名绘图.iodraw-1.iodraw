@@ -64,7 +64,7 @@
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-4" value="在线评论处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="898" y="205" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-5" value="提取用户角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-5" value="提取用户角色" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1059" y="146" width="120" height="112" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-6" value="构建角色组合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-7" value="产品评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1522" y="149" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-9" value="提取用户角色" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1059" y="30" width="120" height="112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
