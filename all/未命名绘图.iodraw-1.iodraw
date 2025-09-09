@@ -145,7 +145,7 @@
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-61" value="产品属性提取" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1245.25" y="376" width="103.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-62" value="用户角色权重定义" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-62" value="产品属性情感分析" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1245.25" y="406.5" width="103.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="LoS4YRyTOdzRzoJOTqBp-52" target="LoS4YRyTOdzRzoJOTqBp-53" parent="1">
