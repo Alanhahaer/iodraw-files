@@ -62,13 +62,16 @@
           <mxGeometry x="901" y="149" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-4" value="在线评论处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="149" width="120" height="35" as="geometry" />
+          <mxGeometry x="901" y="217" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-5" value="提取用户角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="149" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-6" value="构建角色组合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1371" y="149" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-7" value="产品评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1522" y="149" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
