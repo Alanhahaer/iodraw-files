@@ -77,7 +77,10 @@
           <mxGeometry x="1070" y="152" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-11" value="用户角色词库构建" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1067.5" y="181" width="95" height="20" as="geometry" />
+          <mxGeometry x="1063.25" y="181" width="103.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-13" value="用户角色语义匹配" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1063.25" y="212.5" width="103.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
