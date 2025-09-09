@@ -88,7 +88,7 @@
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-15" value="角色组合定义" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1240.25" y="182" width="103.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-16" value="角色权重定义" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-16" value="用户角色权重定义" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1240.25" y="212.5" width="103.5" height="20" as="geometry" />
         </mxCell>
       </root>
