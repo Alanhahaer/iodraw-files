@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Q8xJtJLsIjkgaNrf2eOn">
-    <mxGraphModel dx="714" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="1347" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,37 +59,37 @@
           <mxGeometry x="45.5" y="356" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-1" value="收集在线评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="901" y="156.5" width="120" height="35" as="geometry" />
+          <mxGeometry x="925" y="156.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-4" value="在线评论处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="901" y="214.5" width="120" height="35" as="geometry" />
+          <mxGeometry x="925" y="214.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1208" y="147" width="120" height="111" as="geometry" />
+          <mxGeometry x="1232" y="147" width="120" height="111" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-7" value="产品评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1352" y="184.5" width="120" height="35" as="geometry" />
+          <mxGeometry x="1376" y="184.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-9" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="146" width="120" height="112" as="geometry" />
+          <mxGeometry x="1079" y="146" width="120" height="112" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-10" value="提取用户角色" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="152" width="90" height="26" as="geometry" />
+          <mxGeometry x="1094" y="152" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-11" value="用户角色词库构建" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1063.25" y="181" width="103.5" height="20" as="geometry" />
+          <mxGeometry x="1087.25" y="181" width="103.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-13" value="用户角色语义匹配" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1063.25" y="212.5" width="103.5" height="20" as="geometry" />
+          <mxGeometry x="1087.25" y="212.5" width="103.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-14" value="构建角色组合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1223" y="153.5" width="90" height="26" as="geometry" />
+          <mxGeometry x="1247" y="153.5" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-15" value="角色组合定义" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1216.25" y="181" width="103.5" height="20" as="geometry" />
+          <mxGeometry x="1240.25" y="181" width="103.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-16" value="角色权重定义" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1216.25" y="212.5" width="103.5" height="20" as="geometry" />
+          <mxGeometry x="1240.25" y="212.5" width="103.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
