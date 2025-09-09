@@ -61,6 +61,9 @@
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-1" value="收集在线评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="901" y="149" width="120" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-4" value="收集在线评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1064" y="149" width="120" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
