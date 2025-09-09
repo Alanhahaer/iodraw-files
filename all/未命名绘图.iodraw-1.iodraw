@@ -115,6 +115,63 @@
             <mxPoint x="1386" y="203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-22" value="收集在线评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="935" y="166.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-23" value="在线评论处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="935" y="224.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1242" y="157" width="120" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-25" value="产品评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1398" y="194.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-26" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="156" width="120" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-27" value="提取用户角色" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1104" y="162" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-28" value="用户角色词库构建" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1097.25" y="193" width="103.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-29" value="用户角色语义提取" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1097.25" y="227.5" width="103.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-30" value="用户角色组合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1257" y="163.5" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-31" value="角色组合构建" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1250.25" y="192" width="103.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-32" value="用户角色权重定义" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1250.25" y="222.5" width="103.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LoS4YRyTOdzRzoJOTqBp-22" target="LoS4YRyTOdzRzoJOTqBp-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1169" y="246" as="sourcePoint" />
+            <mxPoint x="1219" y="196" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1057" y="213" as="sourcePoint" />
+            <mxPoint x="1089" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="212" as="sourcePoint" />
+            <mxPoint x="1242" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1364" y="213" as="sourcePoint" />
+            <mxPoint x="1396" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
