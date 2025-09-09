@@ -58,7 +58,7 @@
         <mxCell id="Z4wQe-bb0IHAzE420iKD-12" value="产品改进建议" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45.5" y="356" width="120" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-1" value="产品属性提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-1" value="收集在线评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="901" y="149" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
