@@ -91,6 +91,12 @@
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-16" value="用户角色权重定义" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1240.25" y="212.5" width="103.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1159" y="236" as="sourcePoint" />
+            <mxPoint x="1209" y="186" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
