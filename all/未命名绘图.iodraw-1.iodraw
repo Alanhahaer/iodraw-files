@@ -115,61 +115,61 @@
             <mxPoint x="1386" y="203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-37" value="收集在线评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="935" y="166.5" width="120" height="35" as="geometry" />
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-52" value="收集在线评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="350.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-38" value="在线评论处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="935" y="224.5" width="120" height="35" as="geometry" />
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-53" value="在线评论处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="408.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1242" y="157" width="120" height="111" as="geometry" />
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1237" y="341" width="120" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-40" value="产品评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1398" y="194.5" width="120" height="35" as="geometry" />
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-55" value="产品评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1393" y="378.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-41" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1089" y="156" width="120" height="112" as="geometry" />
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-56" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1084" y="340" width="120" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-42" value="提取用户角色" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1104" y="162" width="90" height="26" as="geometry" />
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-57" value="提取用户角色" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1099" y="346" width="90" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-43" value="用户角色词库构建" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1097.25" y="193" width="103.5" height="20" as="geometry" />
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-58" value="用户角色词库构建" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1092.25" y="377" width="103.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-44" value="角色词语义匹配" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1097.25" y="227.5" width="103.5" height="20" as="geometry" />
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-59" value="角色词语义匹配" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1092.25" y="411.5" width="103.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-45" value="用户角色组合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1257" y="163.5" width="90" height="26" as="geometry" />
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-60" value="用户角色组合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1252" y="347.5" width="90" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-46" value="角色组合构建" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1250.25" y="192" width="103.5" height="20" as="geometry" />
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-61" value="角色组合构建" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1245.25" y="376" width="103.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-47" value="用户角色权重定义" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1250.25" y="222.5" width="103.5" height="20" as="geometry" />
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-62" value="用户角色权重定义" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1245.25" y="406.5" width="103.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LoS4YRyTOdzRzoJOTqBp-37" target="LoS4YRyTOdzRzoJOTqBp-38">
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="LoS4YRyTOdzRzoJOTqBp-52" target="LoS4YRyTOdzRzoJOTqBp-53" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1169" y="246" as="sourcePoint" />
-            <mxPoint x="1219" y="196" as="targetPoint" />
+            <mxPoint x="1164" y="430" as="sourcePoint" />
+            <mxPoint x="1214" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1057" y="213" as="sourcePoint" />
-            <mxPoint x="1089" y="213" as="targetPoint" />
+            <mxPoint x="1052" y="397" as="sourcePoint" />
+            <mxPoint x="1084" y="397" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1210" y="212" as="sourcePoint" />
-            <mxPoint x="1242" y="212" as="targetPoint" />
+            <mxPoint x="1205" y="396" as="sourcePoint" />
+            <mxPoint x="1237" y="396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-51" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LoS4YRyTOdzRzoJOTqBp-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1364" y="213" as="sourcePoint" />
-            <mxPoint x="1396" y="213" as="targetPoint" />
+            <mxPoint x="1359" y="397" as="sourcePoint" />
+            <mxPoint x="1391" y="397" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
