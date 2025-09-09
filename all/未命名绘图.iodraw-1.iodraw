@@ -67,13 +67,8 @@
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-5" value="提取用户角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1059" y="146" width="120" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="LoS4YRyTOdzRzoJOTqBp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoS4YRyTOdzRzoJOTqBp-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1280.36376953125" y="178.54559326171875" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-6" value="构建角色组合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1371" y="149" width="120" height="35" as="geometry" />
+          <mxGeometry x="1208" y="146" width="120" height="114" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-7" value="产品评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1522" y="149" width="120" height="35" as="geometry" />
