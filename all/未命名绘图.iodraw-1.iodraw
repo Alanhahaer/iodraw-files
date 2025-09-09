@@ -224,12 +224,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-83" value="产品评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="753" y="638" width="120" height="35" as="geometry" />
+          <mxGeometry x="739" y="638" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LoS4YRyTOdzRzoJOTqBp-84" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="876" y="654.44" as="sourcePoint" />
-            <mxPoint x="908" y="654.44" as="targetPoint" />
+            <mxPoint x="862" y="654.44" as="sourcePoint" />
+            <mxPoint x="894" y="654.44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
