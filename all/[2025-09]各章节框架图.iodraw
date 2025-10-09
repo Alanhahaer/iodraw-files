@@ -74,10 +74,10 @@
           <mxGeometry x="66" y="924" width="256" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="56" y="1039" width="278" height="226" as="geometry" />
+          <mxGeometry x="56" y="1039" width="278" height="265" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-14" value="构建家庭用户角色偏好决策矩阵P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="63" y="1256" width="256" height="35" as="geometry" />
+          <mxGeometry x="67.5" y="1211" width="256" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-15" value="利用反熵法计算家庭用户角色偏好属性权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="67" y="1164" width="256" height="35" as="geometry" />
