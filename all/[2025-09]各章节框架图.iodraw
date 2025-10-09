@@ -58,6 +58,9 @@
         <mxCell id="Z4wQe-bb0IHAzE420iKD-12" value="产品改进建议" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45.5" y="356" width="120" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6oJcz4l7I1XSC4WJjSb9-1" target="6oJcz4l7I1XSC4WJjSb9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="56" y="764" width="278" height="226" as="geometry" />
         </mxCell>
@@ -67,8 +70,14 @@
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-2" value="从汽车在线社区中爬取在线评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="776" width="256" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6oJcz4l7I1XSC4WJjSb9-10" target="6oJcz4l7I1XSC4WJjSb9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-10" value="对在线评论进行预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="825" width="256" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6oJcz4l7I1XSC4WJjSb9-11" target="6oJcz4l7I1XSC4WJjSb9-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-11" value="利用TF-IDF计算关键词的TF-IDF值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="873" width="256" height="35" as="geometry" />
