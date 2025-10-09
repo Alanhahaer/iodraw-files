@@ -100,8 +100,11 @@
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-15" value="利用反熵法计算家庭用户角色偏好属性权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="1164" width="256" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6oJcz4l7I1XSC4WJjSb9-16" target="6oJcz4l7I1XSC4WJjSb9-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-16" value="获得综合属性权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="67.5" y="1109" width="253.5" height="35" as="geometry" />
+          <mxGeometry x="67.5" y="1111" width="253.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6oJcz4l7I1XSC4WJjSb9-18" target="6oJcz4l7I1XSC4WJjSb9-23">
           <mxGeometry relative="1" as="geometry" />
@@ -186,6 +189,9 @@
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-50" value="利用已聚类的关键词的TF-IDF值计算在线评论属性权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="914" y="502" width="178" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6oJcz4l7I1XSC4WJjSb9-51" target="6oJcz4l7I1XSC4WJjSb9-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-51" value="利用已聚类的关键词的TF-IDF值计算在线评论属性权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="67.5" y="1052" width="252.5" height="39" as="geometry" />
