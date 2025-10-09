@@ -226,6 +226,9 @@
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-58" value="利用后悔理论计算选择各产品的效用值、后悔值和感知效用值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="383" y="1052" width="252.5" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6oJcz4l7I1XSC4WJjSb9-59" target="6oJcz4l7I1XSC4WJjSb9-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-59" value="计算选择每个备选产品的加权综合感知效用值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="383" y="1109" width="252.5" height="39" as="geometry" />
         </mxCell>
