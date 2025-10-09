@@ -185,13 +185,13 @@
           <mxGeometry x="396" y="798" width="107" height="62" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="366" y="1039" width="278" height="264" as="geometry" />
+          <mxGeometry x="366" y="1040" width="278" height="264" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-58" value="利用后悔理论计算选择各产品的效用值、后悔值和感知效用值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="378" y="1052" width="252.5" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="6oJcz4l7I1XSC4WJjSb9-59" value="利用后悔理论计算选择各产品的效用值、后悔值和感知效用值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="378" y="1112" width="252.5" height="39" as="geometry" />
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-59" value="计算选择每个备选产品的加权综合感知效用值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="1109" width="252.5" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
