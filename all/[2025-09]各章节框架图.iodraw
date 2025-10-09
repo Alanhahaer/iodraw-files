@@ -193,6 +193,9 @@
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-59" value="计算选择每个备选产品的加权综合感知效用值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="378" y="1109" width="252.5" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-60" value="对方案进行排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="1164" width="252.5" height="39" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
