@@ -176,13 +176,16 @@
           <mxGeometry x="370" y="764" width="278" height="225" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-54" value="构建方案评价矩阵DG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="396" y="908" width="238" height="59" as="geometry" />
+          <mxGeometry x="396" y="900" width="238" height="59" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-55" value="集合家庭用户角色实际评价信息构建产品评价矩阵DGj" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="798" width="107" height="62" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-56" value="利用在线评论信息构建产品评价矩阵DGz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="396" y="798" width="107" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="1039" width="278" height="225" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
