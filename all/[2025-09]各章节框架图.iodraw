@@ -88,6 +88,21 @@
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-17" value="将关键词聚类得到属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="483" y="767.5" width="256" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="918" width="278" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-19" value="从汽车在线社区中爬取在线评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="930" width="256" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-20" value="对在线评论进行预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="979" width="256" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-21" value="利用TF-IDF计算关键词的TF-IDF值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="1027" width="256" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-22" value="将关键词聚类得到属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="1078" width="256" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
