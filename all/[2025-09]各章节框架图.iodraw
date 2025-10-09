@@ -173,7 +173,7 @@
           <mxGeometry x="914" y="502" width="178" height="56" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-51" value="利用已聚类的关键词的TF-IDF值计算在线评论属性权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="67.5" y="1053" width="247" height="56" as="geometry" />
+          <mxGeometry x="67.5" y="1052" width="250.5" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
