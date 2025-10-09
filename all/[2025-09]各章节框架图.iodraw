@@ -83,7 +83,7 @@
           <mxGeometry x="66" y="1100" width="256" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-16" value="获得综合属性权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="1134" width="256" height="35" as="geometry" />
+          <mxGeometry x="66" y="1146" width="256" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-17" value="将关键词聚类得到属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="1199" width="256" height="35" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="914" y="502" width="178" height="56" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-51" value="利用已聚类的关键词的TF-IDF值计算在线评论属性权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="67.5" y="1052" width="250.5" height="56" as="geometry" />
+          <mxGeometry x="67.5" y="1052" width="252.5" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
