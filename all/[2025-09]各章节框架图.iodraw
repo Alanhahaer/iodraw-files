@@ -62,16 +62,7 @@
           <mxGeometry x="34" y="594" width="292" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-2" value="产品属性提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="606" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="6oJcz4l7I1XSC4WJjSb9-3" value="产品属性情感分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="649" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="6oJcz4l7I1XSC4WJjSb9-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.968;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;width=10.952380952380953;endSize=4.142857142857142;endWidth=8.117913832199546;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="167.00000000000006" y="645.32" as="sourcePoint" />
-            <mxPoint x="194" y="645" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="44" y="606" width="256" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
