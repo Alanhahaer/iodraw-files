@@ -67,6 +67,9 @@
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-10" value="对在线评论进行预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="44" y="655" width="256" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-11" value="利用TF-IDF计算关键词的TF-IDF值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="703" width="256" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
