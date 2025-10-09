@@ -218,10 +218,10 @@
           <mxGeometry x="383" y="1109" width="252.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-60" value="对方案进行排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="383" y="1164" width="252.5" height="39" as="geometry" />
+          <mxGeometry x="383" y="1164" width="252.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-61" value="选择方案，做出决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="383" y="1214" width="252.5" height="39" as="geometry" />
+          <mxGeometry x="383" y="1218" width="252.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-62" value="步骤一：确定属性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="136.75" y="963" width="114" height="26" as="geometry" />
