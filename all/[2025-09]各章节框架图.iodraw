@@ -61,6 +61,9 @@
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="56" y="764" width="278" height="226" as="geometry" />
         </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6oJcz4l7I1XSC4WJjSb9-2" target="6oJcz4l7I1XSC4WJjSb9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-2" value="从汽车在线社区中爬取在线评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="776" width="256" height="35" as="geometry" />
         </mxCell>
@@ -185,7 +188,7 @@
           <mxGeometry x="396" y="798" width="107" height="62" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371" y="1040" width="278" height="264" as="geometry" />
+          <mxGeometry x="371" y="1040" width="278" height="263" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-58" value="利用后悔理论计算选择各产品的效用值、后悔值和感知效用值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="383" y="1052" width="252.5" height="39" as="geometry" />
