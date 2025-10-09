@@ -100,6 +100,9 @@
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-20" value="对在线评论进行预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="930" width="73" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6oJcz4l7I1XSC4WJjSb9-21" target="6oJcz4l7I1XSC4WJjSb9-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-21" value="利用TF-IDF计算&lt;div&gt;关键词的TF-IDF值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242" y="930" width="102" height="35" as="geometry" />
         </mxCell>
