@@ -196,6 +196,9 @@
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-51" value="利用已聚类的关键词的TF-IDF值计算在线评论属性权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="67.5" y="1052" width="252.5" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6oJcz4l7I1XSC4WJjSb9-53" target="6oJcz4l7I1XSC4WJjSb9-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="764" width="278" height="225" as="geometry" />
         </mxCell>
@@ -216,6 +219,9 @@
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="1040" width="278" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6oJcz4l7I1XSC4WJjSb9-58" target="6oJcz4l7I1XSC4WJjSb9-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-58" value="利用后悔理论计算选择各产品的效用值、后悔值和感知效用值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="383" y="1052" width="252.5" height="39" as="geometry" />
