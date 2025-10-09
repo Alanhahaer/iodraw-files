@@ -196,6 +196,9 @@
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-60" value="对方案进行排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="378" y="1164" width="252.5" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="6oJcz4l7I1XSC4WJjSb9-61" value="选择方案，做出决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="1215" width="252.5" height="39" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
