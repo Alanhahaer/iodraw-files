@@ -80,7 +80,7 @@
           <mxGeometry x="63" y="1256" width="256" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-15" value="利用反熵法计算家庭用户角色偏好属性权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="66" y="1100" width="256" height="35" as="geometry" />
+          <mxGeometry x="56" y="1169" width="256" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6oJcz4l7I1XSC4WJjSb9-16" value="获得综合属性权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="1146" width="256" height="35" as="geometry" />
