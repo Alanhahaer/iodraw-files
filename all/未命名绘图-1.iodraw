@@ -22,7 +22,7 @@
         <mxCell id="ZvE0OGqR6IdjugDJSYmr-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-70" y="280" width="88" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZvE0OGqR6IdjugDJSYmr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ZvE0OGqR6IdjugDJSYmr-6" value="去重、分句" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="165" y="180" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvE0OGqR6IdjugDJSYmr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZvE0OGqR6IdjugDJSYmr-6" target="ZvE0OGqR6IdjugDJSYmr-4">
