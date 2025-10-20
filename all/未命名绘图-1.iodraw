@@ -13,7 +13,7 @@
           <mxGeometry x="170" y="90" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvE0OGqR6IdjugDJSYmr-3" value="分句" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="150" width="50" height="30" as="geometry" />
+          <mxGeometry x="160" y="150" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvE0OGqR6IdjugDJSYmr-4" value="分句后的在线评论数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="150" y="180" width="130" height="50" as="geometry" />
