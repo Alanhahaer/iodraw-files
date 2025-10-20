@@ -12,8 +12,8 @@
         <mxCell id="ZvE0OGqR6IdjugDJSYmr-1" value="产品在线评论" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="90" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZvE0OGqR6IdjugDJSYmr-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="148" width="50" height="30" as="geometry" />
+        <mxCell id="ZvE0OGqR6IdjugDJSYmr-3" value="分句" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
