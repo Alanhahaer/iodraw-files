@@ -189,6 +189,9 @@
         <mxCell id="CoVGkLRS23DclbwNmc9x-18" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Factory.svg;" vertex="1" parent="1">
           <mxGeometry x="50" y="210" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="CoVGkLRS23DclbwNmc9x-19" value="" style="shape=mxgraph.cisco.people.running_man;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="76" width="83" height="93" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
