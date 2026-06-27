@@ -8,19 +8,19 @@
           <mxGeometry x="90" y="140" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-19" value="销售" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="30" width="120" height="40" as="geometry" />
+          <mxGeometry x="270" y="-10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-20" value="工厂 / 品牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="270" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-21" value="市场部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="270" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-22" value="品牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="270" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-23" value="任务" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="425" y="-50" width="160" height="200" as="geometry">
+          <mxGeometry x="435" y="-90" width="160" height="200" as="geometry">
             <mxRectangle x="440" y="35" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -29,8 +29,8 @@
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vk8iglIddCsOUyJSv-tG-19" target="Vk8iglIddCsOUyJSv-tG-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="60" as="sourcePoint" />
-            <mxPoint x="430" y="10" as="targetPoint" />
+            <mxPoint x="390" y="20" as="sourcePoint" />
+            <mxPoint x="440" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
