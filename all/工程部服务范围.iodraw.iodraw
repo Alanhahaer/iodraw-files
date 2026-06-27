@@ -183,14 +183,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CoVGkLRS23DclbwNmc9x-17" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.personalization;" vertex="1" parent="1">
-          <mxGeometry x="40" y="100" width="60" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="CoVGkLRS23DclbwNmc9x-18" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Factory.svg;" vertex="1" parent="1">
-          <mxGeometry x="50" y="210" width="50" height="50" as="geometry" />
+          <mxGeometry x="63.25" y="190" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CoVGkLRS23DclbwNmc9x-19" value="" style="shape=mxgraph.cisco.people.running_man;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="76" width="83" height="93" as="geometry" />
+          <mxGeometry x="60" y="76" width="56.5" height="63.31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
