@@ -14,7 +14,7 @@
           <mxGeometry x="270" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-21" value="市场部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="510" width="120" height="40" as="geometry" />
+          <mxGeometry x="270" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-22" value="品牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="630" width="120" height="40" as="geometry" />
@@ -34,12 +34,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-34" value="任务" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="435" y="150" width="190" height="200" as="geometry">
+          <mxGeometry x="435" y="180" width="190" height="120" as="geometry">
             <mxRectangle x="440" y="35" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-35" value="客户支援&lt;div&gt;&lt;br&gt;培训&lt;br&gt;&lt;br&gt;创建SOP&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vk8iglIddCsOUyJSv-tG-34">
-          <mxGeometry y="26" width="190" height="174" as="geometry" />
+          <mxGeometry y="26" width="190" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
