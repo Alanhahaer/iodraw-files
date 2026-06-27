@@ -20,7 +20,7 @@
           <mxGeometry x="270" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-23" value="任务" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="435" y="-90" width="190" height="200" as="geometry">
+          <mxGeometry x="435" y="30" width="190" height="200" as="geometry">
             <mxRectangle x="440" y="35" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
