@@ -20,12 +20,12 @@
           <mxGeometry x="270" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-23" value="任务" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="435" y="-90" width="160" height="200" as="geometry">
+          <mxGeometry x="435" y="-90" width="190" height="200" as="geometry">
             <mxRectangle x="440" y="35" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vk8iglIddCsOUyJSv-tG-24" value="客户支援&lt;div&gt;&lt;br&gt;培训&lt;br&gt;&lt;br&gt;准备皮革制品样品&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vk8iglIddCsOUyJSv-tG-23">
-          <mxGeometry y="26" width="160" height="174" as="geometry" />
+        <mxCell id="Vk8iglIddCsOUyJSv-tG-24" value="客户支援&lt;div&gt;&lt;br&gt;培训&lt;br&gt;&lt;br&gt;准备皮革制品样品&lt;br&gt;&lt;br&gt;创建SOP&lt;br&gt;&lt;br&gt;提供建议应用流程工艺&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;边油应用的内部测试或数据收集&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vk8iglIddCsOUyJSv-tG-23">
+          <mxGeometry y="26" width="190" height="174" as="geometry" />
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vk8iglIddCsOUyJSv-tG-19" target="Vk8iglIddCsOUyJSv-tG-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
