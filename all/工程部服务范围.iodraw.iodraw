@@ -179,10 +179,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gIcZS2NyILvjkMeYgp2E" name="客户支援">
-    <mxGraphModel dx="446" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1273" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CoVGkLRS23DclbwNmc9x-11" value="" style="strokeColor=none;fillColor=#d9d9d9;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="210" width="930" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CoVGkLRS23DclbwNmc9x-15" value="Key" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;verticalAlign=top;align=left;spacingLeft=10;fontSize=11;part=1;" vertex="1" parent="CoVGkLRS23DclbwNmc9x-11">
+          <mxGeometry x="1" width="270" height="120" relative="1" as="geometry">
+            <mxPoint x="-290" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
