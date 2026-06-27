@@ -90,6 +90,9 @@
         <mxCell id="Vk8iglIddCsOUyJSv-tG-48" value="&lt;div&gt;产品开发测试协助&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;与竞争对手产品比较测试协助&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;产品性能观察&lt;br&gt;&lt;br&gt;协助选择适合应用的产品&lt;br&gt;&lt;br&gt;留样性能评估&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vk8iglIddCsOUyJSv-tG-47">
           <mxGeometry y="26" width="190" height="144" as="geometry" />
         </mxCell>
+        <mxCell id="Vk8iglIddCsOUyJSv-tG-49" value="研发部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1200" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
