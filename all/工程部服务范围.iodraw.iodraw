@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-34" value="任务" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="435" y="180" width="190" height="120" as="geometry">
+          <mxGeometry x="435" y="183" width="190" height="120" as="geometry">
             <mxRectangle x="440" y="35" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -135,6 +135,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="429.5" as="sourcePoint" />
             <mxPoint x="435" y="429.84000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk8iglIddCsOUyJSv-tG-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.013;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vk8iglIddCsOUyJSv-tG-20" target="Vk8iglIddCsOUyJSv-tG-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387.91" y="250.63" as="sourcePoint" />
+            <mxPoint x="434.91" y="249.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
