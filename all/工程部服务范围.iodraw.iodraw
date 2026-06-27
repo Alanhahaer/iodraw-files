@@ -86,7 +86,7 @@
           <mxGeometry x="270" y="950" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vk8iglIddCsOUyJSv-tG-47" value="任务" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="460" y="955" width="70" height="30" as="geometry">
+          <mxGeometry x="330" y="1010" width="70" height="30" as="geometry">
             <mxRectangle x="460" y="955" width="190" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
