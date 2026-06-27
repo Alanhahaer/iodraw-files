@@ -183,6 +183,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CoVGkLRS23DclbwNmc9x-17" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.personalization;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="60" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
