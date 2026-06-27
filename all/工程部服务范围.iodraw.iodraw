@@ -98,7 +98,7 @@
             <mxRectangle x="440" y="35" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vk8iglIddCsOUyJSv-tG-51" value="&lt;div&gt;产品性能观察&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vk8iglIddCsOUyJSv-tG-50">
+        <mxCell id="Vk8iglIddCsOUyJSv-tG-51" value="产品性能观察&lt;br&gt;&lt;br&gt;留样性能评估&lt;br&gt;&lt;br&gt;为所有产品制作标准光度板&lt;br&gt;&lt;br&gt;准备油好底油的皮条" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vk8iglIddCsOUyJSv-tG-50">
           <mxGeometry y="26" width="190" height="144" as="geometry" />
         </mxCell>
       </root>
