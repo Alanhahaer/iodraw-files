@@ -195,6 +195,9 @@
         <mxCell id="bgs_LJ5cOJIXofLSffEk-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Factory.svg;" vertex="1" parent="1">
           <mxGeometry x="389" y="126" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="bgs_LJ5cOJIXofLSffEk-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x12220;points=[[0,0.365,0],[1,0.365,0],[0.5,1,0]]" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="90.42" height="71.34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
