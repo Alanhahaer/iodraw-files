@@ -243,6 +243,9 @@
         <mxCell id="3GbN6pnxk25-mRPFbFKU-2" value="品质部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3GbN6pnxk25-mRPFbFKU-3">
           <mxGeometry y="40" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xK3UpLQS4PH2zTHjYFze-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2759/2759212.png;" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="512" height="512" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
