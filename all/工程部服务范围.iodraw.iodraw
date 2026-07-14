@@ -187,10 +187,10 @@
           <mxGeometry x="90" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5843ufN4exMALaoWiEx7-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/uploads/sales-icon-32.png;" vertex="1" parent="1">
-          <mxGeometry x="250" y="210" width="111.77" height="95" as="geometry" />
+          <mxGeometry x="230" y="230" width="111.77" height="95" as="geometry" />
         </mxCell>
         <mxCell id="5843ufN4exMALaoWiEx7-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1/1305.png;" vertex="1" parent="1">
-          <mxGeometry x="329.77" y="230" width="32" height="32" as="geometry" />
+          <mxGeometry x="309.77" y="230" width="32" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
