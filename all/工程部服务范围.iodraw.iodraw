@@ -500,7 +500,7 @@
             <mxPoint x="1138" y="412" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZyVkFyM0W2neTHGfOi2-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oZyVkFyM0W2neTHGfOi2-5">
+        <mxCell id="oZyVkFyM0W2neTHGfOi2-13" value="安排到现场" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oZyVkFyM0W2neTHGfOi2-5">
           <mxGeometry x="-0.1461" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -522,7 +522,7 @@
             <mxPoint x="1220" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZyVkFyM0W2neTHGfOi2-14" value="技术支援请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oZyVkFyM0W2neTHGfOi2-7">
+        <mxCell id="oZyVkFyM0W2neTHGfOi2-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;技术支援请求&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oZyVkFyM0W2neTHGfOi2-7">
           <mxGeometry x="-0.2232" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
