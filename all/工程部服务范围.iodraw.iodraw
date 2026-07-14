@@ -299,6 +299,9 @@
         <mxCell id="8aNmMPvyfXGS9PXvaHKy-3" value="销售" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8aNmMPvyfXGS9PXvaHKy-7">
           <mxGeometry x="2.3500000000000227" y="50" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8aNmMPvyfXGS9PXvaHKy-8" value="应用和生产工艺技术支援" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="558" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
