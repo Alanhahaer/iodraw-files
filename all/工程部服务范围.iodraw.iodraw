@@ -265,7 +265,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gIcZS2NyILvjkMeYgp2E" name="客户支援">
-    <mxGraphModel dx="1777" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2176" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -527,14 +527,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZyVkFyM0W2neTHGfOi2-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-static.xiaoduoai.com/apphub/bitable/4a8da441a94c34366d4122bf76a40866.png;" vertex="1" parent="1">
-          <mxGeometry x="1343" y="380" width="42" height="42" as="geometry" />
+        <mxCell id="oZyVkFyM0W2neTHGfOi2-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1280.3" y="440" width="64.70000000000005" height="76.5" as="geometry" />
         </mxCell>
-        <mxCell id="oZyVkFyM0W2neTHGfOi2-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/uploads/sales-icon-32.png;" vertex="1" parent="1">
-          <mxGeometry x="1280.3" y="440" width="64.70000000000002" height="54.99239509707437" as="geometry" />
+        <mxCell id="oZyVkFyM0W2neTHGfOi2-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/uploads/sales-icon-32.png;" vertex="1" parent="oZyVkFyM0W2neTHGfOi2-19">
+          <mxGeometry width="64.70000000000002" height="54.99239509707437" as="geometry" />
         </mxCell>
-        <mxCell id="oZyVkFyM0W2neTHGfOi2-18" value="业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1283" y="486.5" width="60" height="30" as="geometry" />
+        <mxCell id="oZyVkFyM0W2neTHGfOi2-18" value="业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oZyVkFyM0W2neTHGfOi2-19">
+          <mxGeometry x="2.7000000000000455" y="46.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
