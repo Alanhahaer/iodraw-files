@@ -199,7 +199,7 @@
           <mxGeometry x="2.35" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5843ufN4exMALaoWiEx7-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="330" y="340" width="60" height="80" as="geometry" />
+          <mxGeometry x="323.5" y="340" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5843ufN4exMALaoWiEx7-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/8855/8855595.png;" vertex="1" parent="5843ufN4exMALaoWiEx7-19">
           <mxGeometry x="2.5" width="55" height="55" as="geometry" />
@@ -226,7 +226,7 @@
           <mxGeometry x="2" y="59" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dhTv4uyBLewQJz0PgcNb-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-486-solid/128/testing_examination_verification_test_trial_check-up-1024.png;" vertex="1" parent="1">
-          <mxGeometry x="291.5" y="650" width="124" height="124" as="geometry" />
+          <mxGeometry x="440" y="390" width="84" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
