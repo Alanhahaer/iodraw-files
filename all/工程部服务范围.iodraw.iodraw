@@ -253,9 +253,9 @@
           <mxGeometry y="38" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KG0oPkTc0u8OmFVASisQ-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.alicdn.com/i4/2450206058/O1CN01oHJupW1ucc6l1Tz6n_!!2450206058.png;" vertex="1" parent="1">
-          <mxGeometry x="570" y="340" width="50" height="50" as="geometry" />
+          <mxGeometry x="570" y="345" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KG0oPkTc0u8OmFVASisQ-2" value="品质部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KG0oPkTc0u8OmFVASisQ-2" value="生产部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="565" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
