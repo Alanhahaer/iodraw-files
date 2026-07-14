@@ -265,7 +265,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gIcZS2NyILvjkMeYgp2E" name="客户支援">
-    <mxGraphModel dx="1193" dy="1387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2130" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,7 +330,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8aNmMPvyfXGS9PXvaHKy-17" value="提供解决方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="185" y="410" width="100" height="30" as="geometry" />
+          <mxGeometry x="160" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8aNmMPvyfXGS9PXvaHKy-18" value="要求技术支援" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="465" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
