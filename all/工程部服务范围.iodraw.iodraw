@@ -225,11 +225,14 @@
         <mxCell id="qnCGpUT06LvO45UqzMgV-2" value="品牌" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gbliFhjwfY7bnTDWyatq-4">
           <mxGeometry x="2" y="59" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dhTv4uyBLewQJz0PgcNb-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-486-solid/128/testing_examination_verification_test_trial_check-up-1024.png;" vertex="1" parent="1">
-          <mxGeometry x="455" y="340" width="54" height="54" as="geometry" />
+        <mxCell id="sy9PmA9pQ0ul8v-VV-o1-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450.5" y="340" width="63" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="LE4hOPDA6U28cRZn_6I7-1" value="内部测试与数据收集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450.5" y="394" width="63" height="30" as="geometry" />
+        <mxCell id="dhTv4uyBLewQJz0PgcNb-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-486-solid/128/testing_examination_verification_test_trial_check-up-1024.png;" vertex="1" parent="sy9PmA9pQ0ul8v-VV-o1-1">
+          <mxGeometry x="4.5" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="LE4hOPDA6U28cRZn_6I7-1" value="内部测试与数据收集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sy9PmA9pQ0ul8v-VV-o1-1">
+          <mxGeometry y="54" width="63" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
