@@ -228,6 +228,9 @@
         <mxCell id="dhTv4uyBLewQJz0PgcNb-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-486-solid/128/testing_examination_verification_test_trial_check-up-1024.png;" vertex="1" parent="1">
           <mxGeometry x="440" y="390" width="84" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="LE4hOPDA6U28cRZn_6I7-1" value="品牌" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="474" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
