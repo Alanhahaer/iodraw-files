@@ -199,7 +199,7 @@
           <mxGeometry x="2.35" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5843ufN4exMALaoWiEx7-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/8855/8855595.png;" vertex="1" parent="1">
-          <mxGeometry x="170" y="483" width="102" height="102" as="geometry" />
+          <mxGeometry x="170" y="540" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
