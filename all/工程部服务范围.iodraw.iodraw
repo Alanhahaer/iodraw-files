@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I-gsaUcmq5ewyW0cc0qh" name="服务范围">
-    <mxGraphModel dx="1042" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1869" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,6 +224,9 @@
         </mxCell>
         <mxCell id="qnCGpUT06LvO45UqzMgV-2" value="品牌" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gbliFhjwfY7bnTDWyatq-4">
           <mxGeometry x="2" y="59" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhTv4uyBLewQJz0PgcNb-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-486-solid/128/testing_examination_verification_test_trial_check-up-1024.png;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="520" width="1024" height="1024" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
