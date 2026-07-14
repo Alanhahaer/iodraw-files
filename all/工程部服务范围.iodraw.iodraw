@@ -211,7 +211,10 @@
           <mxGeometry x="320" y="440" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="qnCGpUT06LvO45UqzMgV-2" value="品牌" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="322" y="504" width="60" height="30" as="geometry" />
+          <mxGeometry x="322" y="499" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gbliFhjwfY7bnTDWyatq-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/91860-200.png;" vertex="1" parent="1">
+          <mxGeometry x="280" y="504" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
