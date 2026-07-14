@@ -199,10 +199,10 @@
           <mxGeometry x="2.35" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5843ufN4exMALaoWiEx7-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/8855/8855595.png;" vertex="1" parent="1">
-          <mxGeometry x="270" y="400" width="102" height="102" as="geometry" />
+          <mxGeometry x="170" y="483" width="102" height="102" as="geometry" />
         </mxCell>
         <mxCell id="5843ufN4exMALaoWiEx7-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/9453/9453391.png;" vertex="1" parent="1">
-          <mxGeometry x="340" y="410" width="127" height="127" as="geometry" />
+          <mxGeometry x="328.85" y="340" width="57" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
