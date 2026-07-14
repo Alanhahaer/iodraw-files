@@ -208,7 +208,10 @@
           <mxGeometry y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qnCGpUT06LvO45UqzMgV-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/bags-handbags/128/13-1024.png;" vertex="1" parent="1">
-          <mxGeometry x="270.35" y="550" width="84" height="84" as="geometry" />
+          <mxGeometry x="320" y="440" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="qnCGpUT06LvO45UqzMgV-2" value="市场部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
