@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I-gsaUcmq5ewyW0cc0qh" name="服务范围">
-    <mxGraphModel dx="1042" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,14 +234,17 @@
         <mxCell id="LE4hOPDA6U28cRZn_6I7-1" value="内部测试与数据收集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sy9PmA9pQ0ul8v-VV-o1-1">
           <mxGeometry y="54" width="63" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3GbN6pnxk25-mRPFbFKU-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/512/17729/17729908.png;" vertex="1" parent="1">
-          <mxGeometry x="458" y="450" width="48" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="3GbN6pnxk25-mRPFbFKU-2" value="品质部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450.5" y="490" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="xK3UpLQS4PH2zTHjYFze-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2759/2759212.png;" vertex="1" parent="1">
-          <mxGeometry x="160" y="570" width="452" height="452" as="geometry" />
+          <mxGeometry x="530" y="628" width="162" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="xK3UpLQS4PH2zTHjYFze-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450.5" y="450" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3GbN6pnxk25-mRPFbFKU-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/512/17729/17729908.png;" vertex="1" parent="xK3UpLQS4PH2zTHjYFze-2">
+          <mxGeometry x="7.5" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3GbN6pnxk25-mRPFbFKU-2" value="品质部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xK3UpLQS4PH2zTHjYFze-2">
+          <mxGeometry y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
