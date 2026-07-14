@@ -265,7 +265,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gIcZS2NyILvjkMeYgp2E" name="客户支援">
-    <mxGraphModel dx="1604" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2430" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -493,10 +493,15 @@
             <mxPoint x="1138" y="412" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZyVkFyM0W2neTHGfOi2-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oZyVkFyM0W2neTHGfOi2-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="oVfHJmhYTcN04DGhBuID-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1198.11" y="269.25" as="sourcePoint" />
+            <mxPoint x="1198" y="420" as="sourcePoint" />
             <mxPoint x="1197.74" y="410.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZyVkFyM0W2neTHGfOi2-10" value="提供技术支援" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oZyVkFyM0W2neTHGfOi2-6">
+          <mxGeometry x="0.0997" y="-5" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oZyVkFyM0W2neTHGfOi2-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
