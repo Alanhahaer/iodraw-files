@@ -502,7 +502,7 @@
         </mxCell>
         <mxCell id="oZyVkFyM0W2neTHGfOi2-13" value="安排到现场" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oZyVkFyM0W2neTHGfOi2-5">
           <mxGeometry x="-0.1461" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="16" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oZyVkFyM0W2neTHGfOi2-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="oVfHJmhYTcN04DGhBuID-28">
@@ -526,6 +526,9 @@
           <mxGeometry x="-0.2232" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oZyVkFyM0W2neTHGfOi2-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-static.xiaoduoai.com/apphub/bitable/4a8da441a94c34366d4122bf76a40866.png;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="360" width="112" height="112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
