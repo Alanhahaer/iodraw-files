@@ -285,7 +285,7 @@
           <mxGeometry x="1" y="48" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8aNmMPvyfXGS9PXvaHKy-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="242.65" y="320" width="64.70000000000005" height="80" as="geometry" />
+          <mxGeometry x="242.65" y="300" width="64.70000000000005" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8aNmMPvyfXGS9PXvaHKy-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/uploads/sales-icon-32.png;" vertex="1" parent="8aNmMPvyfXGS9PXvaHKy-7">
           <mxGeometry width="64.70000000000002" height="54.99239509707437" as="geometry" />
@@ -316,9 +316,12 @@
         </mxCell>
         <mxCell id="8aNmMPvyfXGS9PXvaHKy-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="410" as="sourcePoint" />
-            <mxPoint x="310" y="420" as="targetPoint" />
+            <mxPoint x="290" y="410" as="sourcePoint" />
+            <mxPoint x="290" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8aNmMPvyfXGS9PXvaHKy-15" value="咨询" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
