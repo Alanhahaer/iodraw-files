@@ -235,7 +235,7 @@
           <mxGeometry y="54" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xK3UpLQS4PH2zTHjYFze-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2759/2759212.png;" vertex="1" parent="1">
-          <mxGeometry x="530" y="628" width="162" height="162" as="geometry" />
+          <mxGeometry x="500" y="580" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="xK3UpLQS4PH2zTHjYFze-2" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="450.5" y="450" width="60" height="70" as="geometry" />
