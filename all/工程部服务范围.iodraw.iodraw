@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I-gsaUcmq5ewyW0cc0qh" name="服务范围">
-    <mxGraphModel dx="595" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,30 +252,33 @@
         <mxCell id="xK3UpLQS4PH2zTHjYFze-3" value="研发部" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xK3UpLQS4PH2zTHjYFze-4">
           <mxGeometry y="38" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KG0oPkTc0u8OmFVASisQ-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.alicdn.com/i4/2450206058/O1CN01oHJupW1ucc6l1Tz6n_!!2450206058.png;" vertex="1" parent="1">
-          <mxGeometry x="570" y="345" width="50" height="50" as="geometry" />
+        <mxCell id="KG0oPkTc0u8OmFVASisQ-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="565" y="345" width="60" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="KG0oPkTc0u8OmFVASisQ-2" value="生产部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="565" y="390" width="60" height="30" as="geometry" />
+        <mxCell id="KG0oPkTc0u8OmFVASisQ-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.alicdn.com/i4/2450206058/O1CN01oHJupW1ucc6l1Tz6n_!!2450206058.png;" vertex="1" parent="KG0oPkTc0u8OmFVASisQ-3">
+          <mxGeometry x="5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KG0oPkTc0u8OmFVASisQ-2" value="生产部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KG0oPkTc0u8OmFVASisQ-3">
+          <mxGeometry y="45" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="gIcZS2NyILvjkMeYgp2E" name="客户支援">
-    <mxGraphModel dx="1092" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CoVGkLRS23DclbwNmc9x-18" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Factory.svg;" vertex="1" parent="1">
+        <mxCell id="CoVGkLRS23DclbwNmc9x-18" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Factory.svg;" parent="1" vertex="1">
           <mxGeometry x="63.25" y="190" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CoVGkLRS23DclbwNmc9x-19" value="" style="shape=mxgraph.cisco.people.running_man;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="CoVGkLRS23DclbwNmc9x-19" value="" style="shape=mxgraph.cisco.people.running_man;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="76" width="56.5" height="63.31" as="geometry" />
         </mxCell>
-        <mxCell id="bgs_LJ5cOJIXofLSffEk-2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.support;" vertex="1" parent="1">
+        <mxCell id="bgs_LJ5cOJIXofLSffEk-2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.support;" parent="1" vertex="1">
           <mxGeometry x="220" y="112" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="bgs_LJ5cOJIXofLSffEk-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Factory.svg;" vertex="1" parent="1">
+        <mxCell id="bgs_LJ5cOJIXofLSffEk-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Factory.svg;" parent="1" vertex="1">
           <mxGeometry x="389" y="126" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
