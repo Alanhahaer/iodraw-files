@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I-gsaUcmq5ewyW0cc0qh" name="服务范围">
-    <mxGraphModel dx="521" dy="311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,10 +226,10 @@
           <mxGeometry x="2" y="59" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dhTv4uyBLewQJz0PgcNb-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-486-solid/128/testing_examination_verification_test_trial_check-up-1024.png;" vertex="1" parent="1">
-          <mxGeometry x="440" y="390" width="84" height="84" as="geometry" />
+          <mxGeometry x="447" y="340" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="LE4hOPDA6U28cRZn_6I7-1" value="内部测试与数据收集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="474" width="60" height="30" as="geometry" />
+          <mxGeometry x="447" y="474" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
