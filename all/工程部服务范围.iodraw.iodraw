@@ -189,13 +189,8 @@
         <mxCell id="5843ufN4exMALaoWiEx7-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/uploads/sales-icon-32.png;" vertex="1" parent="1">
           <mxGeometry x="250" y="210" width="111.77" height="95" as="geometry" />
         </mxCell>
-        <UserObject label="https://pic.pngsucai.com/00/97/24/ca091b6c0a853300.webp" link="https://pic.pngsucai.com/00/97/24/ca091b6c0a853300.webp" id="5843ufN4exMALaoWiEx7-7">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="260" y="440" width="350" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="5843ufN4exMALaoWiEx7-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1/1305.png;" vertex="1" parent="1">
-          <mxGeometry x="30" y="590" width="152" height="152" as="geometry" />
+          <mxGeometry x="329.77" y="230" width="32" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
