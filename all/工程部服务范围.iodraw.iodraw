@@ -186,11 +186,14 @@
         <mxCell id="5843ufN4exMALaoWiEx7-1" value="工程部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="350" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5843ufN4exMALaoWiEx7-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/uploads/sales-icon-32.png;" vertex="1" parent="1">
-          <mxGeometry x="230" y="230" width="111.77" height="95" as="geometry" />
+        <mxCell id="5843ufN4exMALaoWiEx7-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="280" width="52.94" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5843ufN4exMALaoWiEx7-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1/1305.png;" vertex="1" parent="1">
-          <mxGeometry x="309.77" y="230" width="32" height="32" as="geometry" />
+        <mxCell id="5843ufN4exMALaoWiEx7-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/uploads/sales-icon-32.png;" vertex="1" parent="5843ufN4exMALaoWiEx7-9">
+          <mxGeometry width="52.940000000000005" height="44.996868569383565" as="geometry" />
+        </mxCell>
+        <mxCell id="5843ufN4exMALaoWiEx7-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1/1305.png;" vertex="1" parent="5843ufN4exMALaoWiEx7-9">
+          <mxGeometry x="37.78316006083922" width="15.156839939160779" height="15.156839939160779" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
