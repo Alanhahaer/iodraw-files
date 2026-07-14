@@ -195,7 +195,7 @@
         <mxCell id="5843ufN4exMALaoWiEx7-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1/1305.png;" vertex="1" parent="5843ufN4exMALaoWiEx7-9">
           <mxGeometry x="46.176245862038115" width="18.52375413796189" height="18.52375413796189" as="geometry" />
         </mxCell>
-        <mxCell id="5843ufN4exMALaoWiEx7-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5843ufN4exMALaoWiEx7-9">
+        <mxCell id="5843ufN4exMALaoWiEx7-10" value="销售" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5843ufN4exMALaoWiEx7-9">
           <mxGeometry x="2" y="55" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
