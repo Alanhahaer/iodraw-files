@@ -45,7 +45,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xmzrNyLiFTs1-qhATdoG-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xmzrNyLiFTs1-qhATdoG-8">
+        <mxCell id="xmzrNyLiFTs1-qhATdoG-12" value="湿油刮板" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xmzrNyLiFTs1-qhATdoG-8">
           <mxGeometry x="0.0944" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
