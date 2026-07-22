@@ -23,7 +23,7 @@
         <mxCell id="wW_RkWFJQ422vZo4Vp7l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xmzrNyLiFTs1-qhATdoG-1" target="wW_RkWFJQ422vZo4Vp7l-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wW_RkWFJQ422vZo4Vp7l-12" value="底油： 1号轮&lt;div&gt;面油：2号轮&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;皮条：长度20厘米，厚度：3.5毫米&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="wW_RkWFJQ422vZo4Vp7l-11">
+        <mxCell id="wW_RkWFJQ422vZo4Vp7l-12" value="底油： 1号轮&lt;div&gt;面油：2号轮&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;皮条：长度20厘米，厚度3.5毫米&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="wW_RkWFJQ422vZo4Vp7l-11">
           <mxGeometry x="-0.6064" relative="1" as="geometry">
             <mxPoint x="83" y="10" as="offset" />
           </mxGeometry>
