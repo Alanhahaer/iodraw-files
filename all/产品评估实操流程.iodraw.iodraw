@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xmzrNyLiFTs1-qhATdoG-14" value="湿油刮板200微米" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xmzrNyLiFTs1-qhATdoG-13" vertex="1" connectable="0">
+        <mxCell id="xmzrNyLiFTs1-qhATdoG-14" value="湿油刮板300微米&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;自然干：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xmzrNyLiFTs1-qhATdoG-13" vertex="1" connectable="0">
           <mxGeometry x="0.0944" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
