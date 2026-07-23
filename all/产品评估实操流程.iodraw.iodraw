@@ -160,7 +160,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tk0lIj0bnMbdkKj9Xv4c-12" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;湿油刮板200微米，等完全干燥&lt;/span&gt;&lt;div style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;观察，拍照&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="910" width="170" height="60" as="geometry" />
+          <mxGeometry x="95" y="960" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
