@@ -368,7 +368,10 @@
           <mxGeometry y="38" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-155" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/027/653/755/original/quality-control-icon-vector.jpg;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="-140" width="40" height="40" as="geometry" />
+          <mxGeometry x="2680" y="-130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-156" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2665" y="-112" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
