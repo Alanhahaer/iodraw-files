@@ -448,6 +448,15 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-190" value="QA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-188">
           <mxGeometry y="39.6169696969697" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-191" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2462" y="380.5" width="64" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-192" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/bags-handbags/128/13-1024.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-191">
+          <mxGeometry width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-193" value="品牌" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-191">
+          <mxGeometry x="2" y="70" width="60" height="19" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
