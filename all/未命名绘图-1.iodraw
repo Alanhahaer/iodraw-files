@@ -1,30 +1,9 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="UPIO3FZDJJCv0M-l6-Tn">
-    <mxGraphModel dx="1708" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="xcjhc4IepY71maNRhKcV">
+    <mxGraphModel dx="513" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZvE0OGqR6IdjugDJSYmr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="215" y="180" as="targetPoint" />
-            <mxPoint x="215" y="100" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZvE0OGqR6IdjugDJSYmr-1" value="产品在线评论" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="170" y="100" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZvE0OGqR6IdjugDJSYmr-4" value="分句后的在线评论数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="230" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZvE0OGqR6IdjugDJSYmr-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="310" width="88" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZvE0OGqR6IdjugDJSYmr-6" value="去重、分句" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="165" y="180" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZvE0OGqR6IdjugDJSYmr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZvE0OGqR6IdjugDJSYmr-6" target="ZvE0OGqR6IdjugDJSYmr-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
