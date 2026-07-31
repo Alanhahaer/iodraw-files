@@ -158,7 +158,7 @@
           <mxGeometry x="2729" y="587" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-99" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;五、SP试点技术培训&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2719" y="1107" width="390" height="60" as="geometry" />
+          <mxGeometry x="2729" y="770" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-103" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;六、量产发布&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2719" y="1337" width="390" height="60" as="geometry" />
@@ -398,7 +398,7 @@
           <mxGeometry x="120" y="5" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-169" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3190" y="1110" width="450" height="60" as="geometry" />
+          <mxGeometry x="3200" y="773" width="450" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-100" value="准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-169">
           <mxGeometry width="120" height="60" as="geometry" />
