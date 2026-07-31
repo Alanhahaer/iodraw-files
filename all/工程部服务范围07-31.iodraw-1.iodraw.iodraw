@@ -284,7 +284,7 @@
           <mxGeometry x="1" y="46" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-161" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2240" y="210" width="52" height="80" as="geometry" />
+          <mxGeometry x="2410" y="250" width="52" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-162" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/512/10112/10112588.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-161">
           <mxGeometry width="52" height="52" as="geometry" />
@@ -411,6 +411,15 @@
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-172" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;负责部门&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="2500" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-173" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2260" y="240" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-174" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2759/2759212.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-173">
+          <mxGeometry x="9" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-175" value="研发部" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-173">
+          <mxGeometry y="38" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
