@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17" pages="5">
   <diagram id="OYafyxwNQm_ZiyW_ByBZ" name="第 5 页">
-    <mxGraphModel dx="1676" dy="1572" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2996" dy="2198" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,14 +439,14 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-184" value="TS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-182">
           <mxGeometry y="34" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-185" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2610" y="240" width="42" height="66" as="geometry" />
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-188" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2660" y="-160" width="52" height="81.71" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-186" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/027/653/755/original/quality-control-icon-vector.jpg;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-185">
-          <mxGeometry x="2" width="40" height="40" as="geometry" />
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-189" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/027/653/755/original/quality-control-icon-vector.jpg;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-188">
+          <mxGeometry x="2.4761904761904763" y="-6.190151515151515" width="49.52121212121212" height="49.52121212121212" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-187" value="QA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-185">
-          <mxGeometry y="32" width="40" height="30" as="geometry" />
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-190" value="QA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-188">
+          <mxGeometry y="39.6169696969697" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
