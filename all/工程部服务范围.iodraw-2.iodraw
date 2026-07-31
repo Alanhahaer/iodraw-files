@@ -25,6 +25,9 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-6" value="材料与皮革样品跟踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-7" value="技术规格与合规要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
