@@ -55,9 +55,6 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-17" value="新产品可开发与验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-18" value="材料审核清单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="390" width="120" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
