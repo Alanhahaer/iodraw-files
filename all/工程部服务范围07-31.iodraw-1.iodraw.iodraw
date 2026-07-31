@@ -149,10 +149,10 @@
           <mxGeometry x="2749" y="-3" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-71" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;二、创新发布与商业可行性评估&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2749" y="190" width="390" height="60" as="geometry" />
+          <mxGeometry x="2749" y="177" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-89" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;三、品牌对接与样品签核&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2729" y="562" width="390" height="60" as="geometry" />
+          <mxGeometry x="2729" y="395" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-93" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;四、商业准备与内部协调&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2729" y="817" width="390" height="60" as="geometry" />
@@ -311,7 +311,7 @@
           <mxGeometry x="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-165" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3200" y="153" width="1260" height="170" as="geometry" />
+          <mxGeometry x="3200" y="140" width="1260" height="170" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-72" value="配方开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
           <mxGeometry y="55" width="120" height="60" as="geometry" />
@@ -365,7 +365,7 @@
           <mxGeometry x="1110" y="35" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-167" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3200" y="570" width="450" height="60" as="geometry" />
+          <mxGeometry x="3200" y="403" width="450" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-90" value="品牌介绍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-167">
           <mxGeometry width="120" height="60" as="geometry" />
