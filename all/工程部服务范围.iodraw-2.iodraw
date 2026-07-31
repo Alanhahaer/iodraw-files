@@ -16,8 +16,8 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-2" value="&lt;span style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:等线;mso-fareast-theme-font:&amp;lt;br/&amp;gt;minor-fareast;color:#002060;mso-ansi-language:EN-GB;mso-fareast-language:ZH-CN;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-GB&quot;&gt;品牌机会识别与需求收集&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="40" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="780" y="180" width="80" height="80" as="geometry" />
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-3" value="品牌痛点与技术问题" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="780" y="180" width="220" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
