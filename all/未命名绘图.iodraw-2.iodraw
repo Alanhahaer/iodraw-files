@@ -178,9 +178,10 @@
             <mxPoint x="460" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vt8Ac6KU475vKbSBKBmz-9" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="Vt8Ac6KU475vKbSBKBmz-8">
-          <mxGeometry width="20" height="14" relative="1" as="geometry">
-            <mxPoint x="-10" y="-7" as="offset" />
+        <mxCell id="Vt8Ac6KU475vKbSBKBmz-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="480" as="sourcePoint" />
+            <mxPoint x="90" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
