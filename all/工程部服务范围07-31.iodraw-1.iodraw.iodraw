@@ -379,8 +379,8 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-158" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/512/10112/10112588.png;" vertex="1" parent="1">
           <mxGeometry x="2170" y="-470" width="62" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-159" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2175" y="-422" width="50" height="30" as="geometry" />
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-159" value="采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2175" y="-415" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
