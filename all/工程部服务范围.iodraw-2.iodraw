@@ -31,6 +31,12 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-8" value="时间线协调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-9" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;创新发布与商业可行性评估&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="300" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-10" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;创新发布与商业可行性评估&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="460" width="390" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
