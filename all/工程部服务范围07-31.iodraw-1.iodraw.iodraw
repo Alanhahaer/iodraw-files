@@ -469,6 +469,27 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-197" value="销售" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-194">
           <mxGeometry x="2.35" y="50" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-198" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2368" y="594" width="64.7" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-199" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/uploads/sales-icon-32.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-198">
+          <mxGeometry width="64.70000000000002" height="54.99239509707437" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-200" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1/1305.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-198">
+          <mxGeometry x="46.176245862038115" width="18.52375413796189" height="18.52375413796189" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-201" value="销售" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-198">
+          <mxGeometry x="2.35" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-202" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2260" y="590" width="64" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-203" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/bags-handbags/128/13-1024.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-202">
+          <mxGeometry width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-204" value="品牌" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-202">
+          <mxGeometry x="2" y="70" width="60" height="19" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
