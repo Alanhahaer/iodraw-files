@@ -352,6 +352,9 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-146" value="生产部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-144">
           <mxGeometry y="45" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-148" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/bags-handbags/128/13-1024.png;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="10" width="64" height="64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
