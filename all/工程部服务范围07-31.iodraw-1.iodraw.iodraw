@@ -148,21 +148,6 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-65" value="&lt;span style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:等线;mso-fareast-theme-font:&amp;lt;br/&amp;gt;minor-fareast;color:#002060;mso-ansi-language:EN-GB;mso-fareast-language:ZH-CN;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-GB&quot;&gt;一、品牌机会识别与需求收集&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2749" y="-3" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-66" value="品牌痛点与技术问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2534" y="117" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-67" value="销量与目标成本评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2724" y="117" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-68" value="材料与皮革样品跟踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2894" y="117" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-69" value="技术规格与合规要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3064" y="117" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-70" value="时间线协调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3234" y="117" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-71" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;二、创新发布与商业可行性评估&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2749" y="257" width="390" height="60" as="geometry" />
         </mxCell>
@@ -393,6 +378,24 @@
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-163" value="采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-161">
           <mxGeometry x="1" y="46" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-164" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2534" y="117" width="820" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-66" value="品牌痛点与技术问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-164">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-67" value="销量与目标成本评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-164">
+          <mxGeometry x="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-68" value="材料与皮革样品跟踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-164">
+          <mxGeometry x="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-69" value="技术规格与合规要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-164">
+          <mxGeometry x="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-70" value="时间线协调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-164">
+          <mxGeometry x="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
