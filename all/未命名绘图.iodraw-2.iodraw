@@ -173,7 +173,7 @@
           <mxGeometry x="30" y="640" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vt8Ac6KU475vKbSBKBmz-1" value="Lane 6" style="swimlane;html=1;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="870" y="60" width="160" height="730" as="geometry">
+          <mxGeometry x="1030" y="60" width="160" height="730" as="geometry">
             <mxRectangle x="800" y="20" width="40" height="730" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
