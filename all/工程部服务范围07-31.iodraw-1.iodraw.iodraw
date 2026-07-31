@@ -254,7 +254,7 @@
           <mxGeometry width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-151" value="品牌" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-149">
-          <mxGeometry x="2" y="60" width="60" height="29" as="geometry" />
+          <mxGeometry x="2" y="70" width="60" height="19" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-152" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2570" width="60" height="68" as="geometry" />
@@ -440,7 +440,7 @@
           <mxGeometry y="34" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-185" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2590" y="260" width="42" height="66" as="geometry" />
+          <mxGeometry x="2590" y="240" width="42" height="66" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-186" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/027/653/755/original/quality-control-icon-vector.jpg;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-185">
           <mxGeometry x="2" width="40" height="40" as="geometry" />
