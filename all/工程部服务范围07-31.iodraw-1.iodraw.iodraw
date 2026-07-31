@@ -547,8 +547,14 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-236" value="销售" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-233">
           <mxGeometry x="2.35" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-244" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/91860-200.png;" vertex="1" parent="1">
-          <mxGeometry x="2630" y="770" width="63" height="63" as="geometry" />
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-245" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2630" y="760" width="63" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-246" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/91860-200.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-245">
+          <mxGeometry width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-247" value="工厂" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-245">
+          <mxGeometry x="1" y="48" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
