@@ -266,13 +266,13 @@
           <mxGeometry y="38" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-157" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2740" y="-296" width="42" height="66" as="geometry" />
+          <mxGeometry x="2740" y="-300" width="52" height="81.71" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-155" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/027/653/755/original/quality-control-icon-vector.jpg;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-157">
-          <mxGeometry x="2" width="40" height="40" as="geometry" />
+          <mxGeometry x="2.4761904761904763" y="-6.190151515151515" width="49.52121212121212" height="49.52121212121212" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-156" value="QA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-157">
-          <mxGeometry y="32" width="40" height="30" as="geometry" />
+          <mxGeometry y="39.6169696969697" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-160" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2230" y="-630" width="52" height="80" as="geometry" />
