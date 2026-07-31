@@ -349,6 +349,24 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-146" value="生产部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-144">
           <mxGeometry y="45" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-149" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2290" y="100" width="64" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-150" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/bags-handbags/128/13-1024.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-149">
+          <mxGeometry width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-151" value="品牌" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-149">
+          <mxGeometry x="2" y="59" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-152" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2380" y="100" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-153" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2759/2759212.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-152">
+          <mxGeometry x="9" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-154" value="研发部" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-152">
+          <mxGeometry y="38" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
