@@ -155,7 +155,7 @@
           <mxGeometry x="2729" y="395" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-93" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;四、商业准备与内部协调&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2729" y="817" width="390" height="60" as="geometry" />
+          <mxGeometry x="2729" y="587" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-99" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;五、SP试点技术培训&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2719" y="1107" width="390" height="60" as="geometry" />
@@ -380,7 +380,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-168" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3190" y="800" width="450" height="115" as="geometry" />
+          <mxGeometry x="3190" y="570" width="450" height="115" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-94" value="内部信息共享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-168">
           <mxGeometry y="25" width="120" height="60" as="geometry" />
@@ -440,7 +440,7 @@
           <mxGeometry y="34" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-188" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2660" y="-160" width="52" height="81.71" as="geometry" />
+          <mxGeometry x="2610" y="240" width="52" height="81.71" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-189" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/027/653/755/original/quality-control-icon-vector.jpg;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-188">
           <mxGeometry x="2.4761904761904763" y="-6.190151515151515" width="49.52121212121212" height="49.52121212121212" as="geometry" />
