@@ -151,57 +151,6 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-71" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;二、创新发布与商业可行性评估&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2749" y="257" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-72" value="配方开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2289" y="407" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-73" value="原材料与供应商评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2469" y="407" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-74" value="材料审核清单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2619" y="377" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-75" value="新供应商评估标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2619" y="422" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-76" value="材料验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2619" y="467" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-77" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2592" y="377" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-78" value="新产品可开发与验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2789" y="407" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-79" value="开发时间线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2949" y="352" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-80" value="应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2949" y="397" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-81" value="产品性能验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2949" y="442" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-82" value="验证决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2949" y="492" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-83" value="商业与利润评审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3109" y="407" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-84" value="技术SOP与认证准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3269" y="407" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-85" value="工艺SOP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3429" y="382" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-86" value="认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3429" y="467" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-87" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2919" y="352" width="20" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-88" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="3399" y="387" width="20" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-89" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;三、品牌对接与样品签核&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2729" y="562" width="390" height="60" as="geometry" />
         </mxCell>
@@ -371,7 +320,7 @@
           <mxGeometry x="1" y="46" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-161" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2370" y="290" width="52" height="80" as="geometry" />
+          <mxGeometry x="2240" y="210" width="52" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-162" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/512/10112/10112588.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-161">
           <mxGeometry width="52" height="52" as="geometry" />
@@ -380,7 +329,7 @@
           <mxGeometry x="1" y="46" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-164" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2534" y="117" width="820" height="60" as="geometry" />
+          <mxGeometry x="3270" y="-10" width="820" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-66" value="品牌痛点与技术问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-164">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -396,6 +345,60 @@
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-70" value="时间线协调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-164">
           <mxGeometry x="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-165" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3260" y="240" width="1260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-72" value="配方开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-73" value="原材料与供应商评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="180" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-74" value="材料审核清单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="330" y="25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-75" value="新供应商评估标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="330" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-76" value="材料验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="330" y="115" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-77" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="303" y="25" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-78" value="新产品可开发与验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="500" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-79" value="开发时间线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-80" value="应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="660" y="45" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-81" value="产品性能验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="660" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-82" value="验证决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="660" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-83" value="商业与利润评审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="820" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-84" value="技术SOP与认证准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="980" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-85" value="工艺SOP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="1140" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-86" value="认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="1140" y="115" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-87" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="630" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-88" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-165">
+          <mxGeometry x="1110" y="35" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
