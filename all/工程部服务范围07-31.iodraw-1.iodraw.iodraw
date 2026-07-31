@@ -517,6 +517,15 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-219" value="工厂" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-217">
           <mxGeometry x="1" y="48" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-227" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2640" y="580" width="52" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-228" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/512/10112/10112588.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-227">
+          <mxGeometry width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-229" value="采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-227">
+          <mxGeometry x="1" y="46" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
