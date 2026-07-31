@@ -124,7 +124,7 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-51" value="现场培训" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-52" value="业务发布协调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-52" value="评估与反馈收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
