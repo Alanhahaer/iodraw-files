@@ -457,6 +457,18 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-193" value="品牌" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-191">
           <mxGeometry x="2" y="70" width="60" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-194" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2570" y="384.5" width="64.7" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-195" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/uploads/sales-icon-32.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-194">
+          <mxGeometry width="64.70000000000002" height="54.99239509707437" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-196" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1/1305.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-194">
+          <mxGeometry x="46.176245862038115" width="18.52375413796189" height="18.52375413796189" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-197" value="销售" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-194">
+          <mxGeometry x="2.35" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
