@@ -215,7 +215,7 @@
           <mxGeometry x="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-69" value="技术规格与合规要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-164">
-          <mxGeometry x="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="529" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-70" value="时间线协调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-164">
           <mxGeometry x="700" width="120" height="60" as="geometry" />
