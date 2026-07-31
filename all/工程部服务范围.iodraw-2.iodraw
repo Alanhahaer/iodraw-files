@@ -67,8 +67,11 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-22" value="验证决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="540" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="584" width="120" height="30" as="geometry" />
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-24" value="商业与利润评审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-25" value="商业与利润评审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
