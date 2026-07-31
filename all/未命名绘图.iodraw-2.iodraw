@@ -172,14 +172,15 @@
         <mxCell id="Vt8Ac6KU475vKbSBKBmz-5" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="Vt8Ac6KU475vKbSBKBmz-4">
           <mxGeometry x="30" y="640" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vt8Ac6KU475vKbSBKBmz-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="480" as="sourcePoint" />
-            <mxPoint x="440" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="480" />
-              <mxPoint x="390" y="430" />
-            </Array>
+        <mxCell id="Vt8Ac6KU475vKbSBKBmz-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="450" as="sourcePoint" />
+            <mxPoint x="460" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt8Ac6KU475vKbSBKBmz-9" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="Vt8Ac6KU475vKbSBKBmz-8">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
