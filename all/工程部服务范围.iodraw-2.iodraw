@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17" pages="5">
   <diagram id="OYafyxwNQm_ZiyW_ByBZ" name="第 5 页">
-    <mxGraphModel dx="1140" dy="1380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="789" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-30" value="&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#002060&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;品牌对接与样品签核&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="585" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-31" value="品牌痛点与技术问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-31" value="品牌介绍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="705" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-32" value="销量与目标成本评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
