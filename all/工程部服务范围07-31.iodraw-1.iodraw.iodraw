@@ -101,22 +101,19 @@
           <mxGeometry x="1140" y="840" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-37" value="内部信息共享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="883" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="975" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-38" value="库存准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="960" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-39" value="业务发布协调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-40" value="品牌负责人共享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1053" y="950" width="120" height="30" as="geometry" />
+          <mxGeometry x="1273" y="950" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-41" value="技术部门培训" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1053" y="1035" width="120" height="30" as="geometry" />
+          <mxGeometry x="1273" y="1035" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1023" y="955" width="20" height="100" as="geometry" />
+          <mxGeometry x="1243" y="955" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
