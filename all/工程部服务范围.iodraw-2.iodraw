@@ -64,7 +64,7 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-21" value="产品性能验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="490" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TQQKPJnkGzzMSCgg4tk1-22" value="产品性能验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-22" value="验证决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="540" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
