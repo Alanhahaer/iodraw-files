@@ -55,6 +55,15 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-17" value="新产品可开发与验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-19" value="开发时间线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-20" value="新供应商评估标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="445" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-21" value="材料验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
