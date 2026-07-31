@@ -610,6 +610,9 @@
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-265" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;阶段&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="2884" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-266" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;具体事项&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="3550" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
