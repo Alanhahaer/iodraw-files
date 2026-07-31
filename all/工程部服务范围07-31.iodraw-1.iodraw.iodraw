@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17" pages="5">
   <diagram id="OYafyxwNQm_ZiyW_ByBZ" name="第 5 页">
-    <mxGraphModel dx="2996" dy="2198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2047" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -534,6 +534,21 @@
         </mxCell>
         <mxCell id="TQQKPJnkGzzMSCgg4tk1-232" value="TS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-230">
           <mxGeometry y="34" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-233" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2540" y="770" width="64.7" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-234" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/uploads/sales-icon-32.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-233">
+          <mxGeometry width="64.70000000000002" height="54.99239509707437" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-235" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1/1305.png;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-233">
+          <mxGeometry x="46.176245862038115" width="18.52375413796189" height="18.52375413796189" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-236" value="销售" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TQQKPJnkGzzMSCgg4tk1-233">
+          <mxGeometry x="2.35" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQQKPJnkGzzMSCgg4tk1-244" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/91860-200.png;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="770" width="63" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
