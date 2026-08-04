@@ -46,9 +46,6 @@
         <mxCell id="74" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="230" y="1590" width="646.6666666666666" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="75" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="890.6666666666666" y="930.5" width="647" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="76" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="890.6666666666666" y="1030.5" width="646.6666666666666" height="100" as="geometry" />
         </mxCell>
