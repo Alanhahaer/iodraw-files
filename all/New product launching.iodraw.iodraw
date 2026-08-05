@@ -385,6 +385,9 @@
         <mxCell id="KHE74XuUT-joVjJwqA---173" value="&lt;font color=&quot;#ffffff&quot;&gt;Technical specs &amp;amp; compliance requirements&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="260.39" y="1590" width="249.61" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ymiJr59DKzmuqgHycFIi-143" value="Quality Assurance" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="131" y="1580" width="96" height="310" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
