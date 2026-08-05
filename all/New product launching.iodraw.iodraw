@@ -380,7 +380,7 @@
           <mxGeometry x="2053.3312725399282" y="1130" width="646.6666666666666" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KHE74XuUT-joVjJwqA---172" value="&lt;font color=&quot;#ffffff&quot;&gt;Technical specs &amp;amp; compliance requirements&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270.39" y="1510" width="249.61" height="50" as="geometry" />
+          <mxGeometry x="310" y="1510" width="249.61" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KHE74XuUT-joVjJwqA---173" value="&lt;font color=&quot;#ffffff&quot;&gt;Technical specs &amp;amp; compliance requirements&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="260.39" y="1590" width="249.61" height="50" as="geometry" />
@@ -395,7 +395,7 @@
           <mxGeometry x="580" y="1450" width="395" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ymiJr59DKzmuqgHycFIi-147" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Technical specs &amp;amp; compliance requirements&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1600" width="395" height="100" as="geometry" />
+          <mxGeometry x="580" y="1600" width="395" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
