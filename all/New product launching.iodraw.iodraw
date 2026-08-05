@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="90" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Brand&#39;s pain points &amp;amp; technical issues&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350" y="980" width="430" height="80" as="geometry" />
+          <mxGeometry x="345" y="990" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="91" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="3369.904761904762" y="2150" width="127" height="50" as="geometry" />
@@ -386,7 +386,7 @@
           <mxGeometry x="346.25" y="1940" width="434.17" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ymiJr59DKzmuqgHycFIi-148" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Timeline alignment&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="876.67" y="980" width="395" height="90" as="geometry" />
+          <mxGeometry x="850" y="980" width="395" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ymiJr59DKzmuqgHycFIi-149" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Technical support&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="154" y="2160.5" width="96" height="310" as="geometry" />
