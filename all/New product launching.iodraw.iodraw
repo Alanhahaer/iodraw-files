@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3253" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2395" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="90" value="&lt;font color=&quot;#ffffff&quot;&gt;Brand&#39;s pain points &amp;amp; technical issues&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270.39" y="955.5" width="229.61" height="50" as="geometry" />
+          <mxGeometry x="355" y="980" width="229.61" height="50" as="geometry" />
         </mxCell>
         <mxCell id="91" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1043.904761904762" y="2530" width="127" height="50" as="geometry" />
@@ -365,10 +365,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KHE74XuUT-joVjJwqA---168" value="&lt;font color=&quot;#ffffff&quot;&gt;Volume &amp;amp; target cost evaluation&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270.39" y="1255.5" width="229.61" height="50" as="geometry" />
+          <mxGeometry x="310" y="1300" width="229.61" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KHE74XuUT-joVjJwqA---169" value="&lt;font color=&quot;#ffffff&quot;&gt;Material &amp;amp; leather sample tracking&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270.39" y="1355.5" width="229.61" height="50" as="geometry" />
+          <mxGeometry x="310" y="1400" width="229.61" height="50" as="geometry" />
         </mxCell>
         <mxCell id="141" value="Brand opportunity mapping &amp;amp; requirement collection" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="250" y="890" width="626.67" height="40" as="geometry" />
