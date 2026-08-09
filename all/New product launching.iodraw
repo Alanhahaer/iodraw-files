@@ -921,6 +921,14 @@
         <mxCell id="oXW6-x93lD_rsiVwiUig-59" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;应用测试&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="790" y="1629.5700000000002" width="220" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="oXW6-x93lD_rsiVwiUig-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.001;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="oXW6-x93lD_rsiVwiUig-8" target="uBrMg9cSxkLYNfAtOmf8-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="1489" />
+              <mxPoint x="330" y="2080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
