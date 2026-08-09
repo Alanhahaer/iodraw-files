@@ -981,8 +981,8 @@
         <mxCell id="oXW6-x93lD_rsiVwiUig-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="oXW6-x93lD_rsiVwiUig-35" target="oXW6-x93lD_rsiVwiUig-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1940" y="1135" />
-              <mxPoint x="1940" y="2631" />
+              <mxPoint x="1960" y="1135" />
+              <mxPoint x="1960" y="2631" />
             </Array>
           </mxGeometry>
         </mxCell>
