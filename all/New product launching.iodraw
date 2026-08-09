@@ -466,7 +466,7 @@
           <mxGeometry x="5845.413333333333" y="1830" width="646.6666666666666" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-79" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;品牌机会识别与需求收集&lt;/b&gt;&lt;/span&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="250" y="880" width="480" height="50" as="geometry" />
+          <mxGeometry x="250" y="880" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="uBrMg9cSxkLYNfAtOmf8-83" target="oXW6-x93lD_rsiVwiUig-8">
           <mxGeometry relative="1" as="geometry" />
@@ -523,7 +523,7 @@
           <mxGeometry x="360.63" y="1428.94" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-11" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;研发开发与商业可行性&lt;/b&gt;&lt;/span&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="730" y="880" width="360" height="50" as="geometry" />
+          <mxGeometry x="673" y="880" width="417" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="oXW6-x93lD_rsiVwiUig-13" target="oXW6-x93lD_rsiVwiUig-22">
           <mxGeometry relative="1" as="geometry">
