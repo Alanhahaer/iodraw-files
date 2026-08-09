@@ -398,7 +398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文" id="9vJwyG3W6yjk5p9Z-kbz">
-    <mxGraphModel dx="2925" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1376" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-0" />
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-1" parent="uBrMg9cSxkLYNfAtOmf8-0" />
@@ -854,7 +854,13 @@
           <mxGeometry x="790" y="1728.94" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="oXW6-x93lD_rsiVwiUig-17" target="oXW6-x93lD_rsiVwiUig-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="1868" />
+              <mxPoint x="1030" y="1330" />
+              <mxPoint x="897" y="1330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-17" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;临时版SOP草拟&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="790" y="1828" width="220" height="80" as="geometry" />
