@@ -778,7 +778,7 @@
           <mxGeometry x="45.14" y="1950" width="290" height="121.87" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-3" value="&lt;b&gt;采购部&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="40" y="2278.13" width="290" height="121.87" as="geometry" />
+          <mxGeometry x="45.14" y="2240" width="290" height="121.87" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-4" value="&lt;b&gt;厂长&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="40" y="2858.13" width="290" height="121.87" as="geometry" />
@@ -802,7 +802,7 @@
           <mxGeometry x="940" y="2211.87" width="233.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-14" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;配方开发&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="920" y="1320.94" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="990" y="1369.06" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-15" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;应用性能验证&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="1200" y="1574" width="273.75" height="80" as="geometry" />
