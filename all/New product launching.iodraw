@@ -886,13 +886,13 @@
           <mxGeometry x="2468.13" y="1654" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-44" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;产品反馈复盘&lt;/b&gt;&lt;/span&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="2860" y="880" width="570" height="50" as="geometry" />
+          <mxGeometry x="2860" y="880" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-45" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;客诉收集&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="4208.12" y="1100" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="2910" y="1068.24" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-46" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;操作指南调整&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="2922" y="1680" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="2923.13" y="1654" width="273.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
