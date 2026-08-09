@@ -398,7 +398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文" id="9vJwyG3W6yjk5p9Z-kbz">
-    <mxGraphModel dx="2600" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1800" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-0" />
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-1" parent="uBrMg9cSxkLYNfAtOmf8-0" />
@@ -419,6 +419,9 @@
             </Array>
             <mxPoint x="5228" y="2814.5" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oXW6-x93lD_rsiVwiUig-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="uBrMg9cSxkLYNfAtOmf8-7" target="oXW6-x93lD_rsiVwiUig-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-7" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;找出品牌提出需求的原因&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="350" y="953.24" width="295" height="60" as="geometry" />
@@ -762,6 +765,9 @@
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-79" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;品牌机会识别与需求收集&lt;/b&gt;&lt;/span&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="250" y="880" width="480" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="oXW6-x93lD_rsiVwiUig-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="uBrMg9cSxkLYNfAtOmf8-83" target="oXW6-x93lD_rsiVwiUig-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-83" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;销量与目标成本评估&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="350" y="1032" width="290" height="70" as="geometry" />
         </mxCell>
@@ -785,6 +791,9 @@
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-5" value="&lt;b&gt;跟单部&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="45" y="2591" width="290" height="121.87" as="geometry" />
+        </mxCell>
+        <mxCell id="oXW6-x93lD_rsiVwiUig-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="oXW6-x93lD_rsiVwiUig-6" target="oXW6-x93lD_rsiVwiUig-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-6" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;材料与皮革样品跟踪&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="350" y="1115" width="290" height="70" as="geometry" />
