@@ -874,7 +874,7 @@
           <mxGeometry x="2350" y="880.5" width="570" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-40" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;商业与材料准备&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="3538.13" y="1110" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="2498.13" y="1068.24" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-41" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;量产计划及地点&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="3520" y="2680" width="273.75" height="80" as="geometry" />
@@ -883,7 +883,7 @@
           <mxGeometry x="3510" y="2401" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-43" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;现场支持&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="3550" y="1610.93" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="2498.13" y="1650" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-44" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;产品反馈复盘&lt;/b&gt;&lt;/span&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="2922" y="880.5" width="570" height="50" as="geometry" />
