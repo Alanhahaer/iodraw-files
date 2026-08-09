@@ -946,6 +946,9 @@
         <mxCell id="oXW6-x93lD_rsiVwiUig-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="oXW6-x93lD_rsiVwiUig-30" target="oXW6-x93lD_rsiVwiUig-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oXW6-x93lD_rsiVwiUig-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="oXW6-x93lD_rsiVwiUig-30" target="oXW6-x93lD_rsiVwiUig-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-30" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;信息共享&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="1573.13" y="1075.24" width="273.75" height="80" as="geometry" />
         </mxCell>
