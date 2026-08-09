@@ -814,7 +814,7 @@
           <mxGeometry x="790" y="1800" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-18" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;物理性能测试&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="1180" y="1910" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="773.13" y="1950" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-19" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;认证&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="1180" y="2010" width="273.75" height="80" as="geometry" />
@@ -823,7 +823,7 @@
           <mxGeometry x="780" y="1060" width="233.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-23" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;品牌对接与样品签核&lt;/b&gt;&lt;/span&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="1530" y="880.5" width="570" height="50" as="geometry" />
+          <mxGeometry x="1090" y="880" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;提供所有签核样品&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="1660" y="1550" width="273.75" height="80" as="geometry" />
