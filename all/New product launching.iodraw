@@ -398,7 +398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文" id="9vJwyG3W6yjk5p9Z-kbz">
-    <mxGraphModel dx="4680" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-0" />
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-1" parent="uBrMg9cSxkLYNfAtOmf8-0" />
@@ -941,18 +941,6 @@
           <mxGeometry x="1930" y="880" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="oXW6-x93lD_rsiVwiUig-30" target="oXW6-x93lD_rsiVwiUig-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oXW6-x93lD_rsiVwiUig-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="oXW6-x93lD_rsiVwiUig-30" target="oXW6-x93lD_rsiVwiUig-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1642" y="1240" />
-              <mxPoint x="1553" y="1240" />
-              <mxPoint x="1553" y="2371" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oXW6-x93lD_rsiVwiUig-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uBrMg9cSxkLYNfAtOmf8-1" source="oXW6-x93lD_rsiVwiUig-30" target="oXW6-x93lD_rsiVwiUig-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-30" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;信息共享&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
