@@ -398,7 +398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文" id="9vJwyG3W6yjk5p9Z-kbz">
-    <mxGraphModel dx="1240" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2657" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-0" />
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-1" parent="uBrMg9cSxkLYNfAtOmf8-0" />
@@ -825,8 +825,11 @@
         <mxCell id="oXW6-x93lD_rsiVwiUig-23" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;品牌对接与样品签核&lt;/b&gt;&lt;/span&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="1530" y="880.5" width="570" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oXW6-x93lD_rsiVwiUig-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;应用测试&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="1710" y="1510" width="273.75" height="80" as="geometry" />
+        <mxCell id="oXW6-x93lD_rsiVwiUig-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;提供所有签核样品&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
+          <mxGeometry x="1660" y="1550" width="273.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXW6-x93lD_rsiVwiUig-25" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;提供所有签核样品&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
+          <mxGeometry x="1680" y="1020" width="273.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
