@@ -398,7 +398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文" id="9vJwyG3W6yjk5p9Z-kbz">
-    <mxGraphModel dx="7800" dy="2527" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3900" dy="863" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-0" />
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-1" parent="uBrMg9cSxkLYNfAtOmf8-0" />
@@ -437,15 +437,6 @@
         </mxCell>
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-7" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;找出品牌提出需求的原因&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="350" y="953.24" width="295" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uBrMg9cSxkLYNfAtOmf8-57" value="Lane 3.2" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="4512.08" y="1830" width="40" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="uBrMg9cSxkLYNfAtOmf8-58" value="Lane 3.1" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="4512.08" y="1730" width="40" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="uBrMg9cSxkLYNfAtOmf8-59" value="Lane 3" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="4462.08" y="1730" width="50" height="200" as="geometry" />
         </mxCell>
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-63" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;fontStyle=4" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="5198.746666666666" y="1830" width="646.6666666666666" height="100" as="geometry" />
