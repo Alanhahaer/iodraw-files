@@ -844,7 +844,7 @@
           <mxGeometry x="2770" y="890" width="570" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-30" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;信息共享&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="2256.25" y="1100" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="1573.13" y="1075.24" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-31" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;库存准备&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="1530" y="2280" width="273.75" height="80" as="geometry" />
@@ -856,7 +856,7 @@
           <mxGeometry x="2190" y="2535" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-34" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;内部技术培训&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="2270" y="1574" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="1573.13" y="1654" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-35" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;前期沟通&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="2890" y="1090" width="273.75" height="80" as="geometry" />
