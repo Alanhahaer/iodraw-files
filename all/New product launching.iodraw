@@ -403,7 +403,7 @@
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-0" />
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-1" parent="uBrMg9cSxkLYNfAtOmf8-0" />
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;品牌新产品创新上市流程SOP&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="250" y="820" width="4160" height="60" as="geometry" />
+          <mxGeometry x="250" y="820" width="3010" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-3" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;业务部&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="12.7" y="1047.31" width="354.87" height="121.87" as="geometry" />
@@ -877,7 +877,7 @@
           <mxGeometry x="2468.13" y="1075.24" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-41" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;量产计划及地点&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="2468.13" y="2819" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="2468.13" y="2821" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-42" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;量产订单执行保障&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="2468.13" y="2520" width="273.75" height="80" as="geometry" />
