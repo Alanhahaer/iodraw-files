@@ -853,7 +853,7 @@
           <mxGeometry x="2170" y="2750" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-33" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;排期准备&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="2190" y="2535" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="1990" y="2510" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-34" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;内部技术培训&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="1573.13" y="1654" width="273.75" height="80" as="geometry" />
@@ -865,10 +865,10 @@
           <mxGeometry x="2710" y="2455" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-37" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;现场培训&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="2910" y="1574" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="2003.13" y="1650" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-38" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;评估与反馈收集&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="2918.13" y="1740" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="2003.13" y="1760" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-39" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;量产发布&lt;/b&gt;&lt;/span&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="3390" y="890" width="570" height="50" as="geometry" />
