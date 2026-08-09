@@ -766,7 +766,7 @@
           <mxGeometry x="350" y="1032" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-84" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;技术规格与合规要求&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="350" y="1890" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="358.13" y="1970" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-0" value="&lt;b&gt;研发部&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="45.14" y="1369.0600000000002" width="290" height="121.87" as="geometry" />
