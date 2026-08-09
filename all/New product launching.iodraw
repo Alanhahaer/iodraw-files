@@ -780,8 +780,17 @@
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-86" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Timeline alignment&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="350" y="1460" width="430" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oXW6-x93lD_rsiVwiUig-0" value="研发部" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
+        <mxCell id="oXW6-x93lD_rsiVwiUig-0" value="&lt;b&gt;研发部&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="45.13" y="1300" width="290" height="121.87" as="geometry" />
+        </mxCell>
+        <mxCell id="oXW6-x93lD_rsiVwiUig-1" value="&lt;b&gt;工程部&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
+          <mxGeometry x="45" y="1590" width="290" height="121.87" as="geometry" />
+        </mxCell>
+        <mxCell id="oXW6-x93lD_rsiVwiUig-2" value="&lt;b&gt;品质部&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
+          <mxGeometry x="45" y="1880" width="290" height="121.87" as="geometry" />
+        </mxCell>
+        <mxCell id="oXW6-x93lD_rsiVwiUig-3" value="&lt;b&gt;采购部&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
+          <mxGeometry x="45" y="2170" width="290" height="121.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
