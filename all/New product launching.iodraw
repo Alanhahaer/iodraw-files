@@ -772,7 +772,7 @@
           <mxGeometry x="45.14" y="1369.0600000000002" width="290" height="121.87" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-1" value="&lt;b&gt;工程部&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
-          <mxGeometry x="45" y="1659.0700000000002" width="290" height="121.87" as="geometry" />
+          <mxGeometry x="22.5" y="1681.57" width="335" height="121.87" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-2" value="&lt;b&gt;品质部&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="uBrMg9cSxkLYNfAtOmf8-1">
           <mxGeometry x="45.14" y="1983" width="290" height="121.87" as="geometry" />
