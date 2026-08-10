@@ -825,7 +825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文 的调整格式" id="vnHftkZhXiSSPYoVFBpP">
-    <mxGraphModel dx="2908" dy="842" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1875" dy="331" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-0" />
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-1" parent="6iDZ8oZg2xPdyEHWsl02-0" />
@@ -890,11 +890,6 @@
             <Array as="points">
               <mxPoint x="24" y="248" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ELVQ1zfmQ298Jqe33nLn-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ELVQ1zfmQ298Jqe33nLn-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6" y="-127" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;品牌新产品创新上市流程SOP&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
@@ -1145,6 +1140,15 @@
             <mxPoint x="-141.03625850340143" y="1668.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-183.39" y="1231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELVQ1zfmQ298Jqe33nLn-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=5;strokeColor=#0C343D;fontFamily=Helvetica;html=1;jumpStyle=none;jumpSize=22;rounded=1;curved=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-1" source="6iDZ8oZg2xPdyEHWsl02-23">
+          <mxGeometry x="-247.55102040816325" y="-103.5" width="131.97278911564624" height="100" as="geometry">
+            <mxPoint x="324" y="994" as="sourcePoint" />
+            <mxPoint x="327" y="1378" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="288" y="1192" />
             </Array>
           </mxGeometry>
         </mxCell>
