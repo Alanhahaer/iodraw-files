@@ -1228,28 +1228,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nZUy2XC6Jd7fIbey2LmK-0" value="" style="group" vertex="1" connectable="0" parent="6iDZ8oZg2xPdyEHWsl02-1">
-          <mxGeometry x="250" y="880" width="3010" height="50.5" as="geometry" />
+          <mxGeometry x="250" y="848" width="3010" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="6iDZ8oZg2xPdyEHWsl02-21" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;品牌机会识别与需求收集&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="nZUy2XC6Jd7fIbey2LmK-0">
-          <mxGeometry width="420" height="50" as="geometry" />
+        <mxCell id="6iDZ8oZg2xPdyEHWsl02-21" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;品牌机会识别与需求收集&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="nZUy2XC6Jd7fIbey2LmK-0">
+          <mxGeometry width="420" height="81.68316831683168" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-38" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;研发开发与商业可行性&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="nZUy2XC6Jd7fIbey2LmK-0">
-          <mxGeometry x="423" width="417" height="50" as="geometry" />
+          <mxGeometry x="423" width="417" height="81.68316831683168" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-56" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;品牌对接与样品签核&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="nZUy2XC6Jd7fIbey2LmK-0">
-          <mxGeometry x="840" width="400" height="50" as="geometry" />
+          <mxGeometry x="840" width="400" height="81.68316831683168" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-65" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;商业化准备与内部协调&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="nZUy2XC6Jd7fIbey2LmK-0">
-          <mxGeometry x="1240" width="440" height="50" as="geometry" />
+          <mxGeometry x="1240" width="440" height="81.68316831683168" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-66" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;SP试点技术培训&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="nZUy2XC6Jd7fIbey2LmK-0">
-          <mxGeometry x="1680" width="420" height="50" as="geometry" />
+          <mxGeometry x="1680" width="420" height="81.68316831683168" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-86" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;量产发布&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="nZUy2XC6Jd7fIbey2LmK-0">
-          <mxGeometry x="2100" y="0.5" width="510" height="50" as="geometry" />
+          <mxGeometry x="2100" y="0.8168316831683168" width="510" height="81.68316831683168" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-96" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;产品反馈复盘&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="nZUy2XC6Jd7fIbey2LmK-0">
-          <mxGeometry x="2610" width="400" height="50" as="geometry" />
+          <mxGeometry x="2610" width="400" height="81.68316831683168" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
