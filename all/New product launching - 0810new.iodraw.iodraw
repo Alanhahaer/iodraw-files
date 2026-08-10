@@ -1001,7 +1001,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6iDZ8oZg2xPdyEHWsl02-46" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;配方开发&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
+        <mxCell id="6iDZ8oZg2xPdyEHWsl02-46" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;配方开发&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
           <mxGeometry x="785" y="1418" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-1" source="6iDZ8oZg2xPdyEHWsl02-48" target="6iDZ8oZg2xPdyEHWsl02-50">
