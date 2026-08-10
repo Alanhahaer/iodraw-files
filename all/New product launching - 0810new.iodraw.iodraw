@@ -919,7 +919,7 @@
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-25" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;技术规格与合规要求&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
           <mxGeometry x="358.13" y="2031" width="273.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6iDZ8oZg2xPdyEHWsl02-26" value="&lt;b&gt;研发部&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
+        <mxCell id="6iDZ8oZg2xPdyEHWsl02-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;研发部&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
           <mxGeometry x="45.14" y="1397.0600000000002" width="290" height="121.87" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-27" value="&lt;b&gt;工程部&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
