@@ -825,7 +825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文 的调整格式" id="vnHftkZhXiSSPYoVFBpP">
-    <mxGraphModel dx="2908" dy="842" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3983" dy="1374" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-0" />
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-1" parent="6iDZ8oZg2xPdyEHWsl02-0" />
@@ -919,6 +919,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="6iDZ8oZg2xPdyEHWsl02-37" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;确认技术可行性&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-2">
+          <mxGeometry x="72" y="582" width="273.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ELVQ1zfmQ298Jqe33nLn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;curved=0;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-2" source="nZUy2XC6Jd7fIbey2LmK-3" target="6iDZ8oZg2xPdyEHWsl02-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;品牌新产品创新上市流程SOP&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
           <mxGeometry x="250" y="767" width="3010" height="85" as="geometry" />
         </mxCell>
@@ -948,9 +954,6 @@
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;跟单部&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
           <mxGeometry x="45" y="2716" width="290" height="121.87" as="geometry" />
-        </mxCell>
-        <mxCell id="6iDZ8oZg2xPdyEHWsl02-37" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;确认技术可行性&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
-          <mxGeometry x="360.63" y="1553.94" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-40" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;原材料与供应商&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;评估&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
           <mxGeometry x="790" y="2467.87" width="220" height="80" as="geometry" />
@@ -1169,9 +1172,6 @@
               <mxPoint x="-183.39" y="1231" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ELVQ1zfmQ298Jqe33nLn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;curved=0;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-1" source="nZUy2XC6Jd7fIbey2LmK-3" target="6iDZ8oZg2xPdyEHWsl02-37">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
