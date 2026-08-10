@@ -859,7 +859,7 @@
             <mxPoint x="3006" y="1978.4480849100137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ELVQ1zfmQ298Jqe33nLn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-2" source="6iDZ8oZg2xPdyEHWsl02-20" target="6iDZ8oZg2xPdyEHWsl02-23">
+        <mxCell id="ELVQ1zfmQ298Jqe33nLn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-2" source="6iDZ8oZg2xPdyEHWsl02-20" target="6iDZ8oZg2xPdyEHWsl02-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-20" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;找出品牌提出需求的&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;主要原因&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-2">
