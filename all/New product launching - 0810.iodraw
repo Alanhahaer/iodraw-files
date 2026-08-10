@@ -477,7 +477,7 @@
         <mxCell id="uBrMg9cSxkLYNfAtOmf8-7" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;找出品牌提出需求的原因&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="uBrMg9cSxkLYNfAtOmf8-1" vertex="1">
           <mxGeometry x="350" y="953.24" width="295" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uBrMg9cSxkLYNfAtOmf8-79" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;品牌机会识别与需求收集&lt;/b&gt;&lt;/span&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="uBrMg9cSxkLYNfAtOmf8-1" vertex="1">
+        <mxCell id="uBrMg9cSxkLYNfAtOmf8-79" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;品牌机会识别与需求收集&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="uBrMg9cSxkLYNfAtOmf8-1" vertex="1">
           <mxGeometry x="250" y="880" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oXW6-x93lD_rsiVwiUig-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="uBrMg9cSxkLYNfAtOmf8-1" source="uBrMg9cSxkLYNfAtOmf8-83" target="oXW6-x93lD_rsiVwiUig-8" edge="1">
