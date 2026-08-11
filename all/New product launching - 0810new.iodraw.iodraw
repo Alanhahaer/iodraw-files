@@ -825,7 +825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文 的调整格式" id="vnHftkZhXiSSPYoVFBpP">
-    <mxGraphModel dx="1840" dy="856" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5280" dy="2716" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-0" />
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-1" parent="6iDZ8oZg2xPdyEHWsl02-0" />
@@ -1284,7 +1284,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="英文 的调整格式 的副本" id="NJILDMlX97wMjWgyg8E6">
-    <mxGraphModel dx="6903" dy="6006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="9824" dy="5208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="93Gy2n_YmNym20Vt28qH-0" />
         <mxCell id="93Gy2n_YmNym20Vt28qH-1" parent="93Gy2n_YmNym20Vt28qH-0" />
@@ -1311,24 +1311,6 @@
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-67" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
           <mxGeometry x="746.29" y="920" width="753.71" height="2230" as="geometry" />
-        </mxCell>
-        <mxCell id="93Gy2n_YmNym20Vt28qH-3" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="4659" y="-1679" width="399" height="2054" as="geometry" />
-        </mxCell>
-        <mxCell id="93Gy2n_YmNym20Vt28qH-4" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="4151" y="-1677" width="509" height="2055" as="geometry" />
-        </mxCell>
-        <mxCell id="93Gy2n_YmNym20Vt28qH-5" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="3730" y="-1678" width="423" height="2058" as="geometry" />
-        </mxCell>
-        <mxCell id="93Gy2n_YmNym20Vt28qH-6" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="3289" y="-1677" width="441" height="2058" as="geometry" />
-        </mxCell>
-        <mxCell id="93Gy2n_YmNym20Vt28qH-7" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="2464" y="-1677" width="426" height="2061" as="geometry" />
-        </mxCell>
-        <mxCell id="93Gy2n_YmNym20Vt28qH-8" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="2886" y="-1678.06" width="405" height="2061.06" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-9" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 59px;&quot;&gt;SOP FOR NEW PRODUCT INNOVATION LAUNCH PROCESS FOR BRAND&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
           <mxGeometry x="748.11" y="600" width="4511.89" height="155" as="geometry" />
