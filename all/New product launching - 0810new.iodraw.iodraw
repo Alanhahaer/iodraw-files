@@ -1699,10 +1699,10 @@
           <mxGeometry x="367.4" y="1053.85" width="506.52" height="253.39" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-12" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;R&amp;amp;D&lt;/b&gt;&lt;/span&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="541.43" y="1518.0600000000002" width="290" height="121.87" as="geometry" />
+          <mxGeometry x="458.9" y="1435.53" width="290" height="286.94" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;TECHNICAL&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;SUPPORT&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="435.51" y="1747.29" width="335" height="288.43" as="geometry" />
+          <mxGeometry x="436.37" y="1748.15" width="335" height="286.71" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;QUALITY&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;ASSURANCE&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
           <mxGeometry x="428.51" y="2092.08" width="351.14" height="286.57" as="geometry" />
