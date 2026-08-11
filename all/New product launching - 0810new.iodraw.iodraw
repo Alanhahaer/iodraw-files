@@ -1493,7 +1493,7 @@
           <mxGeometry x="1605" y="1453" width="521.25" height="104" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-75" value="&lt;b style=&quot;font-size: 28px;&quot;&gt;Raw materials &amp;amp; supplier&#39;s evaluation&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="1597" y="2226.76" width="417.25" height="80" as="geometry" />
+          <mxGeometry x="1597" y="2226.76" width="519" height="80" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-76" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=5;strokeColor=#0C343D;fontFamily=Helvetica;html=1;jumpStyle=none;jumpSize=22;rounded=1;curved=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="93Gy2n_YmNym20Vt28qH-1" source="93Gy2n_YmNym20Vt28qH-68" target="93Gy2n_YmNym20Vt28qH-73">
           <mxGeometry x="1256.4489795918366" y="2356.5" width="131.97278911564624" height="100" as="geometry">
@@ -1541,7 +1541,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-84" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Technical specifications&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;amp; compliance requirements&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="858.29" y="2188" width="556.71" height="121" as="geometry" />
+          <mxGeometry x="876" y="2178" width="556.71" height="121" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-86" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;Formula development&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
           <mxGeometry x="1605" y="1602" width="518" height="80" as="geometry" />
