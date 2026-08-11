@@ -1577,7 +1577,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-82" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Confirm technical feasibility&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="837.29" y="1595" width="535.71" height="80" as="geometry" />
+          <mxGeometry x="827" y="1545" width="535.71" height="80" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-83" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;curved=0;" edge="1" parent="93Gy2n_YmNym20Vt28qH-1" source="93Gy2n_YmNym20Vt28qH-73" target="93Gy2n_YmNym20Vt28qH-82">
           <mxGeometry relative="1" as="geometry" />
@@ -1668,7 +1668,7 @@
           <mxGeometry x="4783" y="771" width="400" height="81.68316831683168" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-56" value="&lt;b style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Brand opportunity mapping&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&amp;amp; requirement collection&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="746.29" y="763" width="730.71" height="162.68" as="geometry" />
+          <mxGeometry x="746.29" y="763" width="761.71" height="162.68" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-58" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Brand alignment &amp;amp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;commercial possibility&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
           <mxGeometry x="2083" y="752" width="484" height="174" as="geometry" />
