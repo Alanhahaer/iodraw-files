@@ -1595,7 +1595,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-82" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Confirm technical feasibility&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="868.79" y="1527" width="535.71" height="104" as="geometry" />
+          <mxGeometry x="835" y="1527" width="569.5" height="104" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-83" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;curved=0;" edge="1" parent="93Gy2n_YmNym20Vt28qH-1" source="93Gy2n_YmNym20Vt28qH-73" target="93Gy2n_YmNym20Vt28qH-82">
           <mxGeometry relative="1" as="geometry" />
