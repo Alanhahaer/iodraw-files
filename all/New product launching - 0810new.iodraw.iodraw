@@ -878,7 +878,12 @@
           <mxGeometry x="-32.710000000000036" y="1877" width="188" height="121.87" as="geometry" />
         </mxCell>
         <mxCell id="zMhm3GHCvZEZjvBpQv2O-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ELVQ1zfmQ298Jqe33nLn-115" source="6iDZ8oZg2xPdyEHWsl02-40" target="6iDZ8oZg2xPdyEHWsl02-55">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="923" y="1736" />
+              <mxPoint x="923" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-40" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;原材料与供应商&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;评估&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="ELVQ1zfmQ298Jqe33nLn-115" vertex="1">
           <mxGeometry x="614" y="1695.87" width="267.29" height="80" as="geometry" />
