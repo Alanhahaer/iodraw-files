@@ -1519,7 +1519,7 @@
           <mxGeometry x="827.29" y="1164" width="532.71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-71" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Technical specs &amp;amp; compliance requirements&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="827.29" y="1265" width="535.71" height="60" as="geometry" />
+          <mxGeometry x="827.29" y="1265" width="593.71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-72" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="93Gy2n_YmNym20Vt28qH-1" source="93Gy2n_YmNym20Vt28qH-73" target="93Gy2n_YmNym20Vt28qH-84">
           <mxGeometry relative="1" as="geometry">
@@ -1659,7 +1659,7 @@
           <mxGeometry x="509.2" y="2556.91" width="188" height="288.06" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-57" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Innovation development &amp;amp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;commercial possibility&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="1585" y="727" width="417" height="170.68" as="geometry" />
+          <mxGeometry x="1469" y="727" width="533" height="170.68" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-58" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Brand alignment &amp;amp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;commercial possibility&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
           <mxGeometry x="2002" y="816" width="400" height="81.68316831683168" as="geometry" />
