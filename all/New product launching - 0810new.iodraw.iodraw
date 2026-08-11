@@ -886,16 +886,6 @@
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-53" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;认证&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="ELVQ1zfmQ298Jqe33nLn-115" vertex="1">
           <mxGeometry x="617" y="1515" width="264.29" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ELVQ1zfmQ298Jqe33nLn-112" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="ELVQ1zfmQ298Jqe33nLn-115" source="6iDZ8oZg2xPdyEHWsl02-55" target="6iDZ8oZg2xPdyEHWsl02-58" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="888" y="430" />
-              <mxPoint x="986" y="430" />
-              <mxPoint x="986" y="1100" />
-              <mxPoint x="1043" y="1100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-55" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;商业与利润评审&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="ELVQ1zfmQ298Jqe33nLn-115" vertex="1">
           <mxGeometry x="602" y="384" width="282" height="71" as="geometry" />
         </mxCell>
@@ -1048,15 +1038,6 @@
             <Array as="points">
               <mxPoint x="578.29" y="891" />
               <mxPoint x="578.29" y="1462" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ELVQ1zfmQ298Jqe33nLn-62" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ELVQ1zfmQ298Jqe33nLn-115" source="6iDZ8oZg2xPdyEHWsl02-50" target="6iDZ8oZg2xPdyEHWsl02-55" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="882.5757666015625" y="463.42850167410734" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="929" y="1192" />
-              <mxPoint x="929" y="449" />
             </Array>
           </mxGeometry>
         </mxCell>
