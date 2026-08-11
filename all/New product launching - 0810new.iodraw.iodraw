@@ -1379,7 +1379,7 @@
           <mxGeometry x="3987.52" y="1914.76" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-54" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Track&amp;nbsp; customer feedback&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="4580" y="1120" width="400" height="80" as="geometry" />
+          <mxGeometry x="4610" y="1120" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-67" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
           <mxGeometry x="2054" y="-1677" width="417" height="2061" as="geometry" />
@@ -1481,7 +1481,7 @@
           <mxGeometry x="1602" y="1955" width="524" height="80" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-90" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;SOP optimization&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="4580" y="1923" width="410" height="80" as="geometry" />
+          <mxGeometry x="4610" y="1923" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-97" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Continuous improvement of products&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
           <mxGeometry x="1931" y="3426" width="765.29" height="93" as="geometry" />
