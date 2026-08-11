@@ -1352,7 +1352,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-24" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Commercial &amp;amp; margin review&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="1710" y="1174" width="233.75" height="70" as="geometry" />
+          <mxGeometry x="1512" y="1174" width="464" height="70" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="93Gy2n_YmNym20Vt28qH-1" source="93Gy2n_YmNym20Vt28qH-26" target="93Gy2n_YmNym20Vt28qH-28">
           <mxGeometry relative="1" as="geometry">
@@ -1503,8 +1503,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1995.5357666015625" y="1362.1885016741073" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2042.25" y="2090.76" />
-              <mxPoint x="2042.25" y="1350.76" />
+              <mxPoint x="2042" y="2091" />
+              <mxPoint x="2042" y="1223" />
+              <mxPoint x="1976" y="1223" />
             </Array>
           </mxGeometry>
         </mxCell>
