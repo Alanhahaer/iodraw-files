@@ -1045,7 +1045,12 @@
           <mxGeometry x="608.29" y="705" width="285" height="86" as="geometry" />
         </mxCell>
         <mxCell id="zMhm3GHCvZEZjvBpQv2O-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ELVQ1zfmQ298Jqe33nLn-115" source="ELVQ1zfmQ298Jqe33nLn-4" target="6iDZ8oZg2xPdyEHWsl02-55">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="924" y="1368" />
+              <mxPoint x="924" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ELVQ1zfmQ298Jqe33nLn-4" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;原材料与供应商评估&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="ELVQ1zfmQ298Jqe33nLn-115" vertex="1">
           <mxGeometry x="616.29" y="1328" width="268.71" height="80" as="geometry" />
