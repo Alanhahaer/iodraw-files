@@ -1447,7 +1447,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7sLwh6VqgFz_dSnZiF-Q-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="93Gy2n_YmNym20Vt28qH-1" source="93Gy2n_YmNym20Vt28qH-82" target="93Gy2n_YmNym20Vt28qH-86">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1480" y="1602" />
+              <mxPoint x="1480" y="1670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-82" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Confirm technical feasibility&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
           <mxGeometry x="835" y="1550" width="604" height="104" as="geometry" />
