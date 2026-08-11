@@ -825,7 +825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文 的调整格式" id="vnHftkZhXiSSPYoVFBpP">
-    <mxGraphModel dx="2858" dy="1427" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="474" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-0" />
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-1" parent="6iDZ8oZg2xPdyEHWsl02-0" />
@@ -1093,15 +1093,6 @@
         </mxCell>
         <mxCell id="nZUy2XC6Jd7fIbey2LmK-3" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;需求同步&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="ELVQ1zfmQ298Jqe33nLn-115" vertex="1">
           <mxGeometry x="203.28999999999996" y="580" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5g4NqNA4SzYSJNKRlmbg-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ELVQ1zfmQ298Jqe33nLn-115" source="nZUy2XC6Jd7fIbey2LmK-4" target="6iDZ8oZg2xPdyEHWsl02-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="893" y="751" />
-              <mxPoint x="928" y="751" />
-              <mxPoint x="928" y="449" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="nZUy2XC6Jd7fIbey2LmK-4" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;原材料与供应商评估&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="ELVQ1zfmQ298Jqe33nLn-115" vertex="1">
           <mxGeometry x="608.29" y="705" width="285" height="86" as="geometry" />
