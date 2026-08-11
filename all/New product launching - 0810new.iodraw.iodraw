@@ -825,7 +825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文 的调整格式" id="vnHftkZhXiSSPYoVFBpP">
-    <mxGraphModel dx="1307" dy="557" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="178" dy="-76" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-0" />
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-1" parent="6iDZ8oZg2xPdyEHWsl02-0" />
@@ -1248,10 +1248,8 @@
             <mxPoint x="1454" y="457" as="sourcePoint" />
             <mxPoint x="1449" y="1936" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1411" y="447" />
-              <mxPoint x="1411" y="1742" />
-              <mxPoint x="1399" y="1742" />
-              <mxPoint x="1399" y="1936" />
+              <mxPoint x="1401" y="447" />
+              <mxPoint x="1401" y="1936" />
             </Array>
           </mxGeometry>
         </mxCell>
