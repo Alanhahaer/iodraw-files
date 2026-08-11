@@ -1516,10 +1516,10 @@
           <mxGeometry x="827.29" y="1068" width="534.71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-70" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Material &amp;amp; leather sample tracking&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;align=center;verticalAlign=middle;fontSize=12;fontColor=default;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="827.29" y="1164" width="484.71" height="70" as="geometry" />
+          <mxGeometry x="827.29" y="1164" width="532.71" height="70" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-71" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Technical specs &amp;amp; compliance requirements&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="827.29" y="1265" width="290" height="60" as="geometry" />
+          <mxGeometry x="827.29" y="1265" width="535.71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-72" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="93Gy2n_YmNym20Vt28qH-1" source="93Gy2n_YmNym20Vt28qH-73" target="93Gy2n_YmNym20Vt28qH-84">
           <mxGeometry relative="1" as="geometry">
@@ -1530,7 +1530,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-73" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Requirements synchronization&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
-          <mxGeometry x="828.29" y="1361" width="290" height="60" as="geometry" />
+          <mxGeometry x="828.29" y="1361" width="531.71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="93Gy2n_YmNym20Vt28qH-74" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;Raw materials and supplier&#39;s evaluation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="93Gy2n_YmNym20Vt28qH-1">
           <mxGeometry x="1721.25" y="1609.76" width="285" height="80" as="geometry" />
