@@ -825,7 +825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文 的调整格式" id="vnHftkZhXiSSPYoVFBpP">
-    <mxGraphModel dx="2448" dy="1240" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3669" dy="1943" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-0" />
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-1" parent="6iDZ8oZg2xPdyEHWsl02-0" />
@@ -1403,10 +1403,10 @@
           <mxGeometry x="900" y="2896" width="318" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0zlpql3fN65TqXkj6xlm-34" value="" style="rounded=1;fillColor=#fff2cc;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;arcSize=0;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
-          <mxGeometry x="765" y="2978" width="122" height="40" as="geometry" />
+          <mxGeometry x="768" y="2972" width="122" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0zlpql3fN65TqXkj6xlm-35" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;同时为日常任务&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
-          <mxGeometry x="951" y="2972" width="228" height="48" as="geometry" />
+          <mxGeometry x="904" y="2969" width="228" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
