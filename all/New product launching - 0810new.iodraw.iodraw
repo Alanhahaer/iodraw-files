@@ -1289,7 +1289,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f68pbdBQivjJk5QkfEDj-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
+        <mxCell id="f68pbdBQivjJk5QkfEDj-15" value="通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
           <mxGeometry x="1530" y="1028" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
