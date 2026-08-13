@@ -825,7 +825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文 的调整格式" id="vnHftkZhXiSSPYoVFBpP">
-    <mxGraphModel dx="5660" dy="3150" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2630" dy="1375" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-0" />
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-1" parent="6iDZ8oZg2xPdyEHWsl02-0" />
@@ -1451,7 +1451,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文＋单据" id="2kKlb1hAQj1gaRSxvvGr">
-    <mxGraphModel dx="2424" dy="1020" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3463" dy="1629" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-0" />
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-1" parent="0rMEVH9GchkO2Vi5x9RE-0" />
@@ -2052,7 +2052,7 @@
           <mxGeometry x="257" y="2231" width="318" height="48" as="geometry" />
         </mxCell>
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-13" value="" style="group" vertex="1" connectable="0" parent="0rMEVH9GchkO2Vi5x9RE-1">
-          <mxGeometry x="414" y="1305" width="376" height="111.32999999999993" as="geometry" />
+          <mxGeometry x="414" y="1267" width="376" height="111.32999999999993" as="geometry" />
         </mxCell>
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0080f0;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=open;endFill=0;dashed=1;dashPattern=1 4;endSize=22;" edge="1" parent="47Yqzzk_JVL-aJ4jbGIZ-13" source="47Yqzzk_JVL-aJ4jbGIZ-9">
           <mxGeometry relative="1" as="geometry">
