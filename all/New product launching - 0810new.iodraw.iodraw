@@ -825,7 +825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文 的调整格式" id="vnHftkZhXiSSPYoVFBpP">
-    <mxGraphModel dx="1099" dy="463" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="463" dy="97" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-0" />
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-1" parent="6iDZ8oZg2xPdyEHWsl02-0" />
@@ -906,6 +906,11 @@
         </mxCell>
         <mxCell id="0zlpql3fN65TqXkj6xlm-0" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-1" source="6iDZ8oZg2xPdyEHWsl02-55" target="6iDZ8oZg2xPdyEHWsl02-46">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0zlpql3fN65TqXkj6xlm-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0zlpql3fN65TqXkj6xlm-0">
+          <mxGeometry x="-0.2042" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-55" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;商业与利润评审&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="6iDZ8oZg2xPdyEHWsl02-1" vertex="1">
           <mxGeometry x="1232" y="1055" width="282" height="71" as="geometry" />
@@ -1161,7 +1166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-46" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;配方开发&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="6iDZ8oZg2xPdyEHWsl02-1" vertex="1">
-          <mxGeometry x="1233" y="1442" width="282" height="74" as="geometry" />
+          <mxGeometry x="1232" y="1442" width="282" height="74" as="geometry" />
         </mxCell>
         <mxCell id="ELVQ1zfmQ298Jqe33nLn-22" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="6iDZ8oZg2xPdyEHWsl02-1" source="6iDZ8oZg2xPdyEHWsl02-48" target="6iDZ8oZg2xPdyEHWsl02-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
