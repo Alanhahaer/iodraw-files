@@ -1081,7 +1081,12 @@
           <mxGeometry x="202.28999999999996" y="484" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="--KLd0mBElAlD2j_XJY1-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=classic;endFill=1;" edge="1" parent="f4s2tw2i1diMe1Uyuf-a-2" source="nZUy2XC6Jd7fIbey2LmK-3" target="6iDZ8oZg2xPdyEHWsl02-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="167" y="625" />
+              <mxPoint x="167" y="730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nZUy2XC6Jd7fIbey2LmK-3" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;需求同步&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="f4s2tw2i1diMe1Uyuf-a-2" vertex="1">
           <mxGeometry x="203.28999999999996" y="580" width="290" height="60" as="geometry" />
@@ -1151,6 +1156,9 @@
               <mxPoint x="512" y="872" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="--KLd0mBElAlD2j_XJY1-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=classic;endFill=1;" edge="1" parent="f4s2tw2i1diMe1Uyuf-a-2" source="6iDZ8oZg2xPdyEHWsl02-37" target="--KLd0mBElAlD2j_XJY1-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-37" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;技术可行性&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="f4s2tw2i1diMe1Uyuf-a-2" vertex="1">
           <mxGeometry x="208.99999999999997" y="710" width="273.75" height="80" as="geometry" />
