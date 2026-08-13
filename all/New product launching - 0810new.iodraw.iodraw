@@ -1292,7 +1292,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0zlpql3fN65TqXkj6xlm-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=classic;endFill=1;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-1" source="--KLd0mBElAlD2j_XJY1-0" target="--KLd0mBElAlD2j_XJY1-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="1539" />
+              <mxPoint x="800" y="2201" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
