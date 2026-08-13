@@ -825,7 +825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文 的调整格式" id="vnHftkZhXiSSPYoVFBpP">
-    <mxGraphModel dx="1804" dy="891" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1115" dy="488" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-0" />
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-1" parent="6iDZ8oZg2xPdyEHWsl02-0" />
@@ -1425,7 +1425,7 @@
         <mxCell id="0zlpql3fN65TqXkj6xlm-38" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;需与品牌方对接的任务&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="0zlpql3fN65TqXkj6xlm-39">
           <mxGeometry x="257" y="2231" width="318" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="qriljKrfr-yT28ecu-xM-4" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;elbow=horizontal;jumpStyle=arc;jumpSize=22;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0zlpql3fN65TqXkj6xlm-39" source="6iDZ8oZg2xPdyEHWsl02-58" target="6iDZ8oZg2xPdyEHWsl02-46">
+        <mxCell id="qriljKrfr-yT28ecu-xM-4" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;elbow=horizontal;jumpStyle=arc;jumpSize=22;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="0zlpql3fN65TqXkj6xlm-39" source="6iDZ8oZg2xPdyEHWsl02-58" target="6iDZ8oZg2xPdyEHWsl02-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1148" y="1238" as="sourcePoint" />
             <mxPoint x="1198" y="1188" as="targetPoint" />
@@ -1433,6 +1433,7 @@
               <mxPoint x="1197" y="1217" />
               <mxPoint x="949" y="1217" />
               <mxPoint x="949" y="808" />
+              <mxPoint x="814" y="808" />
             </Array>
           </mxGeometry>
         </mxCell>
