@@ -2029,12 +2029,6 @@
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-133" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;需与品牌方对接的任务&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="0rMEVH9GchkO2Vi5x9RE-2">
           <mxGeometry x="257" y="2231" width="318" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;elbow=horizontal;jumpStyle=none;jumpSize=22;curved=0;" edge="1" parent="0rMEVH9GchkO2Vi5x9RE-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="291" y="1410" as="sourcePoint" />
-            <mxPoint x="341" y="1360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-3" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;elbow=horizontal;jumpStyle=none;jumpSize=22;curved=0;" edge="1" parent="0rMEVH9GchkO2Vi5x9RE-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="313" y="1222" as="sourcePoint" />
