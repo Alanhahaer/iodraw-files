@@ -1396,8 +1396,8 @@
         <mxCell id="0zlpql3fN65TqXkj6xlm-31" value="" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
           <mxGeometry x="617" y="2978" width="273.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0zlpql3fN65TqXkj6xlm-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
-          <mxGeometry x="635" y="2934" width="38" height="25" as="geometry" />
+        <mxCell id="0zlpql3fN65TqXkj6xlm-32" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;备注：&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
+          <mxGeometry x="626" y="2920" width="108" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
