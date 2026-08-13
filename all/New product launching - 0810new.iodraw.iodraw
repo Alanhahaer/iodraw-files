@@ -896,6 +896,16 @@
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-51" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;物理性能测试&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="6iDZ8oZg2xPdyEHWsl02-1" vertex="1">
           <mxGeometry x="1245" y="2030" width="266.29" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="0zlpql3fN65TqXkj6xlm-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=classic;endFill=1;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-1" source="6iDZ8oZg2xPdyEHWsl02-53" target="6iDZ8oZg2xPdyEHWsl02-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1552" y="2194" />
+              <mxPoint x="1552" y="1640" />
+              <mxPoint x="1534" y="1640" />
+              <mxPoint x="1534" y="1091" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-53" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;认证&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="6iDZ8oZg2xPdyEHWsl02-1" vertex="1">
           <mxGeometry x="1243" y="2154" width="264.29" height="80" as="geometry" />
         </mxCell>
