@@ -1269,6 +1269,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0zlpql3fN65TqXkj6xlm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-1" source="--KLd0mBElAlD2j_XJY1-0" target="6iDZ8oZg2xPdyEHWsl02-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="--KLd0mBElAlD2j_XJY1-0" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;技术规格&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="6iDZ8oZg2xPdyEHWsl02-1" vertex="1">
           <mxGeometry x="839" y="1499" width="273.75" height="80" as="geometry" />
         </mxCell>
