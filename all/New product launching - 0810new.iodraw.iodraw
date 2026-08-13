@@ -2112,18 +2112,7 @@
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-44" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0080f0;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=open;endFill=0;dashed=1;dashPattern=1 4;endSize=22;" edge="1" parent="47Yqzzk_JVL-aJ4jbGIZ-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="494" y="100" as="targetPoint" />
-            <mxPoint x="1382" y="100" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-46" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0080f0;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=open;endFill=0;dashed=1;dashPattern=1 4;endSize=22;" edge="1" parent="47Yqzzk_JVL-aJ4jbGIZ-42">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="856" y="35" as="targetPoint" />
-            <mxPoint x="1308" y="35" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1308" y="45" />
-              <mxPoint x="1312" y="45" />
-              <mxPoint x="1312" y="35" />
-            </Array>
+            <mxPoint x="1104" y="100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
