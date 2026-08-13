@@ -1132,7 +1132,7 @@
         <mxCell id="f68pbdBQivjJk5QkfEDj-2" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=classic;endFill=1;" parent="6iDZ8oZg2xPdyEHWsl02-1" source="6iDZ8oZg2xPdyEHWsl02-37" target="--KLd0mBElAlD2j_XJY1-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0zlpql3fN65TqXkj6xlm-7" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="f68pbdBQivjJk5QkfEDj-2">
+        <mxCell id="0zlpql3fN65TqXkj6xlm-7" value="&lt;font color=&quot;#003300&quot; style=&quot;font-size: 28px;&quot;&gt;通过&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="f68pbdBQivjJk5QkfEDj-2">
           <mxGeometry x="-0.2572" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
