@@ -1429,7 +1429,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文＋单据" id="2kKlb1hAQj1gaRSxvvGr">
-    <mxGraphModel dx="2503" dy="923" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2944" dy="1452" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-0" />
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-1" parent="0rMEVH9GchkO2Vi5x9RE-0" />
@@ -2028,9 +2028,6 @@
         </mxCell>
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-133" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;需与品牌方对接的任务&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="0rMEVH9GchkO2Vi5x9RE-2">
           <mxGeometry x="257" y="2231" width="318" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=40;notch=25;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="0rMEVH9GchkO2Vi5x9RE-1">
-          <mxGeometry x="-50" y="1375" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-13" value="" style="group" vertex="1" connectable="0" parent="0rMEVH9GchkO2Vi5x9RE-1">
           <mxGeometry x="414" y="1307" width="376" height="111.32999999999993" as="geometry" />
