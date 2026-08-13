@@ -1429,7 +1429,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文＋单据" id="2kKlb1hAQj1gaRSxvvGr">
-    <mxGraphModel dx="2036" dy="629" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2853" dy="1143" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-0" />
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-1" parent="0rMEVH9GchkO2Vi5x9RE-0" />
@@ -2071,11 +2071,10 @@
         </mxCell>
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0080f0;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="47Yqzzk_JVL-aJ4jbGIZ-20" source="47Yqzzk_JVL-aJ4jbGIZ-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1054" y="-345" as="targetPoint" />
+            <mxPoint x="994" y="84" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="42" y="-319" />
-              <mxPoint x="994" y="-319" />
-              <mxPoint x="994" y="-345" />
+              <mxPoint x="492" y="84" />
+              <mxPoint x="492" y="84" />
             </Array>
           </mxGeometry>
         </mxCell>
