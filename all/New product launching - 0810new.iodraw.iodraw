@@ -1429,7 +1429,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文＋单据" id="2kKlb1hAQj1gaRSxvvGr">
-    <mxGraphModel dx="1627" dy="372" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2853" dy="1143" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-0" />
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-1" parent="0rMEVH9GchkO2Vi5x9RE-0" />
@@ -2050,7 +2050,7 @@
           <mxGeometry x="2" y="49" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-14" value="" style="group" vertex="1" connectable="0" parent="0rMEVH9GchkO2Vi5x9RE-1">
-          <mxGeometry x="419" y="1691" width="382" height="111.33" as="geometry" />
+          <mxGeometry x="156" y="1814" width="382" height="111.33" as="geometry" />
         </mxCell>
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0080f0;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="47Yqzzk_JVL-aJ4jbGIZ-14" source="47Yqzzk_JVL-aJ4jbGIZ-17">
           <mxGeometry relative="1" as="geometry">
