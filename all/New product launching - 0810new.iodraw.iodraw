@@ -1429,7 +1429,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文＋单据" id="2kKlb1hAQj1gaRSxvvGr">
-    <mxGraphModel dx="2453" dy="1143" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="701" dy="41" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-0" />
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-1" parent="0rMEVH9GchkO2Vi5x9RE-0" />
@@ -2138,10 +2138,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-73" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;elbow=horizontal;jumpStyle=none;jumpSize=22;curved=0;" edge="1" parent="0rMEVH9GchkO2Vi5x9RE-1">
+        <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-73" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;elbow=horizontal;jumpStyle=none;jumpSize=22;curved=0;exitX=1.018;exitY=0.395;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="0rMEVH9GchkO2Vi5x9RE-1" source="47Yqzzk_JVL-aJ4jbGIZ-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="946" y="1664" as="sourcePoint" />
-            <mxPoint x="996" y="1614" as="targetPoint" />
+            <mxPoint x="1376" y="1606" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1376" y="1614" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
