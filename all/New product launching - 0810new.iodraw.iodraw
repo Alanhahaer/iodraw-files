@@ -1429,11 +1429,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文＋单据" id="2kKlb1hAQj1gaRSxvvGr">
-    <mxGraphModel dx="2103" dy="923" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3680" dy="1915" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-0" />
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-1" parent="0rMEVH9GchkO2Vi5x9RE-0" />
-        <mxCell id="0rMEVH9GchkO2Vi5x9RE-2" value="" style="group" vertex="1" connectable="0" parent="0rMEVH9GchkO2Vi5x9RE-1">
+        <mxCell id="0rMEVH9GchkO2Vi5x9RE-2" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="0rMEVH9GchkO2Vi5x9RE-1">
           <mxGeometry x="630" y="671" width="3134.29" height="2428" as="geometry" />
         </mxCell>
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-3" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="0rMEVH9GchkO2Vi5x9RE-2">
