@@ -1262,6 +1262,9 @@
         <mxCell id="--KLd0mBElAlD2j_XJY1-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;合规要求&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
           <mxGeometry x="840" y="2152" width="273.75" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="f68pbdBQivjJk5QkfEDj-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.003;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=classic;endFill=1;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-1" source="6iDZ8oZg2xPdyEHWsl02-37" target="--KLd0mBElAlD2j_XJY1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
