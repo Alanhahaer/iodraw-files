@@ -1429,7 +1429,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文＋单据" id="2kKlb1hAQj1gaRSxvvGr">
-    <mxGraphModel dx="4907" dy="2687" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1472" dy="526" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-0" />
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-1" parent="0rMEVH9GchkO2Vi5x9RE-0" />
@@ -2082,6 +2082,16 @@
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-15" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0080f0;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=open;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="0rMEVH9GchkO2Vi5x9RE-1" source="47Yqzzk_JVL-aJ4jbGIZ-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1198" y="1869" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0080f0;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=open;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="0rMEVH9GchkO2Vi5x9RE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1607" y="1632" as="targetPoint" />
+            <mxPoint x="238" y="1632" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="646" y="1632" />
+              <mxPoint x="646" y="1632" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
