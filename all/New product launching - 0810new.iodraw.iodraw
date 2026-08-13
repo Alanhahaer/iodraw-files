@@ -1425,13 +1425,15 @@
         <mxCell id="0zlpql3fN65TqXkj6xlm-38" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;需与品牌方对接的任务&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="0zlpql3fN65TqXkj6xlm-39">
           <mxGeometry x="257" y="2231" width="318" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="qriljKrfr-yT28ecu-xM-3" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;elbow=horizontal;jumpStyle=arc;jumpSize=22;curved=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0zlpql3fN65TqXkj6xlm-39" source="6iDZ8oZg2xPdyEHWsl02-62" target="6iDZ8oZg2xPdyEHWsl02-46">
+        <mxCell id="qriljKrfr-yT28ecu-xM-3" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;elbow=horizontal;jumpStyle=arc;jumpSize=22;curved=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0zlpql3fN65TqXkj6xlm-39" source="6iDZ8oZg2xPdyEHWsl02-62" target="6iDZ8oZg2xPdyEHWsl02-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1045" y="526" as="sourcePoint" />
             <mxPoint x="1095" y="476" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1043" y="226" />
-              <mxPoint x="813" y="226" />
+              <mxPoint x="1043" y="196" />
+              <mxPoint x="589" y="196" />
+              <mxPoint x="589" y="740" />
+              <mxPoint x="673" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
