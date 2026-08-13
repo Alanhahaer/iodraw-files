@@ -1133,7 +1133,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-37" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;技术可行性&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="6iDZ8oZg2xPdyEHWsl02-1" vertex="1">
-          <mxGeometry x="839" y="1372" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="839" y="1381" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6iDZ8oZg2xPdyEHWsl02-25" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;物理测试标准确认&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="6iDZ8oZg2xPdyEHWsl02-1" vertex="1">
           <mxGeometry x="843.29" y="2025" width="273.75" height="80" as="geometry" />
@@ -1269,11 +1269,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0zlpql3fN65TqXkj6xlm-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="f68pbdBQivjJk5QkfEDj-4">
-          <mxGeometry x="-0.1306" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0zlpql3fN65TqXkj6xlm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;jumpStyle=none;jumpSize=22;endArrow=classic;endFill=1;curved=0;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-1" source="--KLd0mBElAlD2j_XJY1-0" target="6iDZ8oZg2xPdyEHWsl02-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1283,7 +1278,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="--KLd0mBElAlD2j_XJY1-0" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;技术规格&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="6iDZ8oZg2xPdyEHWsl02-1" vertex="1">
-          <mxGeometry x="839" y="1507" width="273.75" height="80" as="geometry" />
+          <mxGeometry x="839" y="1499" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="--KLd0mBElAlD2j_XJY1-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;合规要求&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="6iDZ8oZg2xPdyEHWsl02-1" vertex="1">
           <mxGeometry x="841" y="2151" width="273.75" height="80" as="geometry" />
@@ -1299,9 +1294,8 @@
         <mxCell id="0zlpql3fN65TqXkj6xlm-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=classic;endFill=1;" edge="1" parent="6iDZ8oZg2xPdyEHWsl02-1" source="--KLd0mBElAlD2j_XJY1-0" target="--KLd0mBElAlD2j_XJY1-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="839" y="1551" />
-              <mxPoint x="800" y="1551" />
-              <mxPoint x="800" y="2200" />
+              <mxPoint x="800" y="1539" />
+              <mxPoint x="800" y="2201" />
             </Array>
           </mxGeometry>
         </mxCell>
