@@ -1429,7 +1429,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文＋单据" id="2kKlb1hAQj1gaRSxvvGr">
-    <mxGraphModel dx="3344" dy="1452" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1451" dy="261" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-0" />
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-1" parent="0rMEVH9GchkO2Vi5x9RE-0" />
@@ -2032,8 +2032,8 @@
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=40;notch=25;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="0rMEVH9GchkO2Vi5x9RE-1">
           <mxGeometry x="-50" y="1375" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="0rMEVH9GchkO2Vi5x9RE-1">
-          <mxGeometry x="-380" y="1227" width="21" height="30" as="geometry" />
+        <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-9" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="0rMEVH9GchkO2Vi5x9RE-1">
+          <mxGeometry x="-194" y="1288" width="34.5" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
