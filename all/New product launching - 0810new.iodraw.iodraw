@@ -1394,19 +1394,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0zlpql3fN65TqXkj6xlm-31" value="" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
-          <mxGeometry x="771" y="2901" width="117" height="46" as="geometry" />
+          <mxGeometry x="762" y="2901" width="117" height="46" as="geometry" />
         </mxCell>
         <mxCell id="0zlpql3fN65TqXkj6xlm-32" value="&lt;font color=&quot;#808080&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;备注：&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
-          <mxGeometry x="655" y="2900" width="108" height="48" as="geometry" />
+          <mxGeometry x="649" y="2900" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0zlpql3fN65TqXkj6xlm-33" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;面向新产品开发的任务&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
-          <mxGeometry x="900" y="2896" width="318" height="48" as="geometry" />
+          <mxGeometry x="891" y="2896" width="318" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0zlpql3fN65TqXkj6xlm-34" value="" style="rounded=1;fillColor=#fff2cc;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;arcSize=0;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
-          <mxGeometry x="768" y="2972" width="122" height="40" as="geometry" />
+          <mxGeometry x="759" y="2972" width="122" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0zlpql3fN65TqXkj6xlm-35" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;同时为日常任务&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="6iDZ8oZg2xPdyEHWsl02-1">
-          <mxGeometry x="904" y="2969" width="228" height="48" as="geometry" />
+          <mxGeometry x="895" y="2969" width="228" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
