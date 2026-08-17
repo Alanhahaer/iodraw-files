@@ -3471,9 +3471,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fmTipTiT2q0ttQqAVyja-66" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="fmTipTiT2q0ttQqAVyja-2" source="fmTipTiT2q0ttQqAVyja-68" target="fmTipTiT2q0ttQqAVyja-70" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fmTipTiT2q0ttQqAVyja-67" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="fmTipTiT2q0ttQqAVyja-2" source="fmTipTiT2q0ttQqAVyja-68" target="fmTipTiT2q0ttQqAVyja-76" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -3482,11 +3479,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fmTipTiT2q0ttQqAVyja-68" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Confirm technical feasibility&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="fmTipTiT2q0ttQqAVyja-2" vertex="1">
-          <mxGeometry x="376.91499999999996" y="950" width="604" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="fmTipTiT2q0ttQqAVyja-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;curved=0;" parent="fmTipTiT2q0ttQqAVyja-2" source="fmTipTiT2q0ttQqAVyja-57" target="fmTipTiT2q0ttQqAVyja-68" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fmTipTiT2q0ttQqAVyja-68" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&amp;nbsp;Technical feasibility&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="fmTipTiT2q0ttQqAVyja-2" vertex="1">
+          <mxGeometry x="376.91499999999996" y="899" width="604" height="104" as="geometry" />
         </mxCell>
         <mxCell id="fmTipTiT2q0ttQqAVyja-70" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Technical specifications&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;amp; compliance requirements&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="fmTipTiT2q0ttQqAVyja-2" vertex="1">
           <mxGeometry x="389.7049999999999" y="1688" width="580.21" height="121" as="geometry" />
@@ -3659,6 +3653,9 @@
         </mxCell>
         <mxCell id="fmTipTiT2q0ttQqAVyja-110" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Customer complaint report&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" parent="fmTipTiT2q0ttQqAVyja-2" vertex="1">
           <mxGeometry x="4280.915" y="1708.5" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RgVt7LAac4uknMqOgYAa-0" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Technical specs&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="fmTipTiT2q0ttQqAVyja-2">
+          <mxGeometry x="377.80499999999995" y="1018" width="604" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
