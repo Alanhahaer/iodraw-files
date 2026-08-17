@@ -3654,7 +3654,7 @@
         <mxCell id="RgVt7LAac4uknMqOgYAa-0" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Technical specs&lt;/b&gt;&lt;/span&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="fmTipTiT2q0ttQqAVyja-1">
           <mxGeometry x="835.89" y="1618" width="604" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="RgVt7LAac4uknMqOgYAa-109" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Technical specifications&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;amp; compliance requirements&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="fmTipTiT2q0ttQqAVyja-1">
+        <mxCell id="RgVt7LAac4uknMqOgYAa-109" value="&lt;div&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;compliance requirements&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;" vertex="1" parent="fmTipTiT2q0ttQqAVyja-1">
           <mxGeometry x="847.79" y="2460" width="580.21" height="121" as="geometry" />
         </mxCell>
       </root>
