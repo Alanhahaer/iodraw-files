@@ -1451,7 +1451,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文＋单据" id="2kKlb1hAQj1gaRSxvvGr">
-    <mxGraphModel dx="4149" dy="1629" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3630" dy="1375" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-0" />
         <mxCell id="0rMEVH9GchkO2Vi5x9RE-1" parent="0rMEVH9GchkO2Vi5x9RE-0" />
@@ -2149,11 +2149,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-13" value="" style="group" parent="0rMEVH9GchkO2Vi5x9RE-1" vertex="1" connectable="0">
-          <mxGeometry x="414" y="1267" width="438" height="111.33" as="geometry" />
+          <mxGeometry x="425" y="1269" width="438" height="111.33" as="geometry" />
         </mxCell>
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0080f0;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=open;endFill=0;dashed=1;dashPattern=1 4;endSize=22;" parent="47Yqzzk_JVL-aJ4jbGIZ-13" source="47Yqzzk_JVL-aJ4jbGIZ-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="438.00000000000006" y="54.000000000000036" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="47Yqzzk_JVL-aJ4jbGIZ-12" value="" style="group" parent="47Yqzzk_JVL-aJ4jbGIZ-13" vertex="1" connectable="0">
