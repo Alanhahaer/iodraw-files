@@ -3403,7 +3403,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TcPQzvR9o1KhVefXqiOQ-1" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;MSDS&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OHBcxYCHa3cFkYpQdh6j-1">
-          <mxGeometry x="1280" y="1493" width="282" height="74" as="geometry" />
+          <mxGeometry x="1270" y="1515" width="282" height="74" as="geometry" />
         </mxCell>
         <mxCell id="TcPQzvR9o1KhVefXqiOQ-2" value="" style="group" vertex="1" connectable="0" parent="OHBcxYCHa3cFkYpQdh6j-1">
           <mxGeometry x="834" y="1244" width="1.2899999999999636" height="149" as="geometry" />
