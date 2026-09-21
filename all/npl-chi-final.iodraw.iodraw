@@ -3588,14 +3588,11 @@
             <mxPoint x="818.8499999999999" y="70.32999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TcPQzvR9o1KhVefXqiOQ-28" value="" style="group" vertex="1" connectable="0" parent="OHBcxYCHa3cFkYpQdh6j-1">
-          <mxGeometry x="697" y="3450" width="2630.17" height="191.28999999999996" as="geometry" />
+        <mxCell id="TcPQzvR9o1KhVefXqiOQ-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;生产部&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OHBcxYCHa3cFkYpQdh6j-1">
+          <mxGeometry x="662.29" y="3484.71" width="191.29" height="121.87" as="geometry" />
         </mxCell>
-        <mxCell id="TcPQzvR9o1KhVefXqiOQ-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;生产部&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="TcPQzvR9o1KhVefXqiOQ-28">
-          <mxGeometry x="-34.710000000000036" y="34.710000000000036" width="191.29" height="121.87" as="geometry" />
-        </mxCell>
-        <mxCell id="TcPQzvR9o1KhVefXqiOQ-31" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;量产统筹&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="TcPQzvR9o1KhVefXqiOQ-28">
-          <mxGeometry x="2279.42" y="57.710000000000036" width="273.75" height="80" as="geometry" />
+        <mxCell id="TcPQzvR9o1KhVefXqiOQ-31" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;量产统筹&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OHBcxYCHa3cFkYpQdh6j-1">
+          <mxGeometry x="1272" y="3499" width="273.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
