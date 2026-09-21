@@ -3558,12 +3558,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1361" y="43" as="targetPoint" />
             <mxPoint x="61" y="37.000000000000455" as="sourcePoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vxoo-90-LG1FStoTqA6w-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="OHBcxYCHa3cFkYpQdh6j-149">
-          <mxGeometry x="0.2168" y="-7" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1361" y="37" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TcPQzvR9o1KhVefXqiOQ-27" value="" style="group" vertex="1" connectable="0" parent="OHBcxYCHa3cFkYpQdh6j-1">
