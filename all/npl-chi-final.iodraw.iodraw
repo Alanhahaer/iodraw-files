@@ -3517,7 +3517,7 @@
           <mxGeometry y="126" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TcPQzvR9o1KhVefXqiOQ-17" value="" style="group" vertex="1" connectable="0" parent="OHBcxYCHa3cFkYpQdh6j-1">
-          <mxGeometry x="610.0049999999998" y="790.9949999999999" width="3081.5550000000003" height="506.52" as="geometry" />
+          <mxGeometry x="672.4849999999998" y="827.2849999999999" width="3081.5550000000003" height="506.52" as="geometry" />
         </mxCell>
         <mxCell id="OHBcxYCHa3cFkYpQdh6j-10" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;业务部&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="TcPQzvR9o1KhVefXqiOQ-17">
           <mxGeometry x="-192.32499999999982" y="192.32500000000005" width="506.52" height="121.87" as="geometry" />
