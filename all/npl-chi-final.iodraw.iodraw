@@ -3033,20 +3033,6 @@
         <mxCell id="OHBcxYCHa3cFkYpQdh6j-30" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;提供所有签核样品&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OHBcxYCHa3cFkYpQdh6j-1">
           <mxGeometry x="1732" y="1758" width="273.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OHBcxYCHa3cFkYpQdh6j-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="OHBcxYCHa3cFkYpQdh6j-1" source="OHBcxYCHa3cFkYpQdh6j-32" target="OHBcxYCHa3cFkYpQdh6j-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OHBcxYCHa3cFkYpQdh6j-32" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;交付演示&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#f8cecc;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;arcSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OHBcxYCHa3cFkYpQdh6j-1">
-          <mxGeometry x="1715" y="914" width="273.75" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OHBcxYCHa3cFkYpQdh6j-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;dashPattern=1 1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="OHBcxYCHa3cFkYpQdh6j-1" source="OHBcxYCHa3cFkYpQdh6j-37" target="OHBcxYCHa3cFkYpQdh6j-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OHBcxYCHa3cFkYpQdh6j-34" value="&lt;font style=&quot;font-size: 28px; background-color: rgb(192, 205, 215);&quot; color=&quot;#006633&quot;&gt;&lt;b&gt;通过&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="OHBcxYCHa3cFkYpQdh6j-33">
-          <mxGeometry x="-0.2365" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OHBcxYCHa3cFkYpQdh6j-35" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=classic;endFill=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="OHBcxYCHa3cFkYpQdh6j-1" source="OHBcxYCHa3cFkYpQdh6j-37" target="OHBcxYCHa3cFkYpQdh6j-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -3062,14 +3048,8 @@
             <mxPoint y="27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OHBcxYCHa3cFkYpQdh6j-37" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;样品评审与正式签核&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#f8cecc;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;arcSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OHBcxYCHa3cFkYpQdh6j-1">
-          <mxGeometry x="1715" y="1039" width="273.75" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="OHBcxYCHa3cFkYpQdh6j-38" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="OHBcxYCHa3cFkYpQdh6j-1" source="OHBcxYCHa3cFkYpQdh6j-39" target="OHBcxYCHa3cFkYpQdh6j-46">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OHBcxYCHa3cFkYpQdh6j-39" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;业务发布协调&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#f8cecc;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;arcSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OHBcxYCHa3cFkYpQdh6j-1">
-          <mxGeometry x="1715" y="1178" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OHBcxYCHa3cFkYpQdh6j-40" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;dashPattern=1 1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="OHBcxYCHa3cFkYpQdh6j-1" source="OHBcxYCHa3cFkYpQdh6j-46" target="OHBcxYCHa3cFkYpQdh6j-58">
           <mxGeometry relative="1" as="geometry" />
@@ -3617,6 +3597,29 @@
         </mxCell>
         <mxCell id="OHBcxYCHa3cFkYpQdh6j-125" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;合规要求&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#A9C4EB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;arcSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="TcPQzvR9o1KhVefXqiOQ-12">
           <mxGeometry y="126" width="273.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TcPQzvR9o1KhVefXqiOQ-13" value="" style="group" vertex="1" connectable="0" parent="OHBcxYCHa3cFkYpQdh6j-1">
+          <mxGeometry x="1715" y="914" width="273.75" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="OHBcxYCHa3cFkYpQdh6j-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="TcPQzvR9o1KhVefXqiOQ-13" source="OHBcxYCHa3cFkYpQdh6j-32" target="OHBcxYCHa3cFkYpQdh6j-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHBcxYCHa3cFkYpQdh6j-32" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;交付演示&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#f8cecc;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;arcSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="TcPQzvR9o1KhVefXqiOQ-13">
+          <mxGeometry width="273.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OHBcxYCHa3cFkYpQdh6j-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;dashPattern=1 1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="TcPQzvR9o1KhVefXqiOQ-13" source="OHBcxYCHa3cFkYpQdh6j-37" target="OHBcxYCHa3cFkYpQdh6j-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHBcxYCHa3cFkYpQdh6j-34" value="&lt;font style=&quot;font-size: 28px; background-color: rgb(192, 205, 215);&quot; color=&quot;#006633&quot;&gt;&lt;b&gt;通过&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="OHBcxYCHa3cFkYpQdh6j-33">
+          <mxGeometry x="-0.2365" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHBcxYCHa3cFkYpQdh6j-37" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;样品评审与正式签核&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#f8cecc;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;arcSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="TcPQzvR9o1KhVefXqiOQ-13">
+          <mxGeometry y="125" width="273.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OHBcxYCHa3cFkYpQdh6j-39" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;业务发布协调&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#f8cecc;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;arcSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="TcPQzvR9o1KhVefXqiOQ-13">
+          <mxGeometry y="264" width="273.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
