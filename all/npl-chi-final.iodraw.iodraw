@@ -2931,7 +2931,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文＋表单+来去向(根据研发意见修改)" id="GD-1XsTeXfUDvROAao_0">
-    <mxGraphModel dx="9680" dy="4333" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5808" dy="2840" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="OHBcxYCHa3cFkYpQdh6j-0" />
         <mxCell id="OHBcxYCHa3cFkYpQdh6j-1" parent="OHBcxYCHa3cFkYpQdh6j-0" />
@@ -3544,7 +3544,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TcPQzvR9o1KhVefXqiOQ-5" value="" style="group" vertex="1" connectable="0" parent="OHBcxYCHa3cFkYpQdh6j-1">
-          <mxGeometry x="723" y="517" width="3130" height="163.5" as="geometry" />
+          <mxGeometry x="695" y="321" width="3130" height="163.5" as="geometry" />
         </mxCell>
         <mxCell id="OHBcxYCHa3cFkYpQdh6j-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;品牌新产品创新上市流程SOP&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="TcPQzvR9o1KhVefXqiOQ-5">
           <mxGeometry x="120" width="3010" height="85" as="geometry" />
