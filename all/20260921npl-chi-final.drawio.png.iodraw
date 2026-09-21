@@ -2931,7 +2931,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="中文＋表单+来去向(根据研发意见修改)" id="GD-1XsTeXfUDvROAao_0">
-    <mxGraphModel dx="2424" dy="1420" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="835" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="OHBcxYCHa3cFkYpQdh6j-0" />
         <mxCell id="OHBcxYCHa3cFkYpQdh6j-1" parent="OHBcxYCHa3cFkYpQdh6j-0" />
@@ -3773,14 +3773,6 @@
             <Array as="points">
               <mxPoint x="2035" y="2320" />
               <mxPoint x="2035" y="451" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OHBcxYCHa3cFkYpQdh6j-83" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;endArrow=classic;endFill=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="Vxoo-90-LG1FStoTqA6w-36" source="OHBcxYCHa3cFkYpQdh6j-84" target="OHBcxYCHa3cFkYpQdh6j-93">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="858" y="949.72" />
-              <mxPoint x="858" y="1054.72" />
             </Array>
           </mxGeometry>
         </mxCell>
