@@ -3394,7 +3394,12 @@
           <mxGeometry y="142" width="282" height="74" as="geometry" />
         </mxCell>
         <mxCell id="Vxoo-90-LG1FStoTqA6w-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;elbow=horizontal;endArrow=classic;endFill=1;" edge="1" parent="TcPQzvR9o1KhVefXqiOQ-18" source="OHBcxYCHa3cFkYpQdh6j-124" target="OHBcxYCHa3cFkYpQdh6j-98">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="310" />
+              <mxPoint x="525" y="169" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TcPQzvR9o1KhVefXqiOQ-19" value="" style="group" vertex="1" connectable="0" parent="OHBcxYCHa3cFkYpQdh6j-1">
           <mxGeometry x="696.3549999999998" y="1285.725" width="3080.6850000000004" height="529.2850000000001" as="geometry" />
@@ -3605,6 +3610,9 @@
         </mxCell>
         <mxCell id="OHBcxYCHa3cFkYpQdh6j-133" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;需与品牌方对接的任务&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="TcPQzvR9o1KhVefXqiOQ-35">
           <mxGeometry x="238" y="2" width="318" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxoo-90-LG1FStoTqA6w-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;jumpStyle=none;jumpSize=22;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0C343D;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;elbow=horizontal;endArrow=classic;endFill=1;" edge="1" parent="OHBcxYCHa3cFkYpQdh6j-1" source="OHBcxYCHa3cFkYpQdh6j-98" target="OHBcxYCHa3cFkYpQdh6j-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
