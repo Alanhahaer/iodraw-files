@@ -24,6 +24,9 @@
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-6" value="SOP制作（面向品牌）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xp9yCLMbLNsEbTFeGwUJ-7" value="油边操作工艺&lt;div&gt;（面向厂客）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="524.5" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
