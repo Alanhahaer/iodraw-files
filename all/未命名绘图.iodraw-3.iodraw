@@ -27,8 +27,11 @@
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-7" value="油边操作工艺&lt;div&gt;（面向厂客）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="524.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xp9yCLMbLNsEbTFeGwUJ-8" value="视频与图片拍摄&lt;div&gt;（协助性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=37;" vertex="1" parent="1">
+        <mxCell id="xp9yCLMbLNsEbTFeGwUJ-8" value="视频与图片拍摄&lt;div&gt;（协助性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xp9yCLMbLNsEbTFeGwUJ-9" value="wenjian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
