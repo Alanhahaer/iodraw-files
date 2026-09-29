@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="eUv5IM4ulu5vjKoh4zu0">
-    <mxGraphModel dx="1452" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
           <mxGeometry x="390" y="414" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-8" value="视频与图片拍摄&lt;div&gt;（协助性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="496" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-9" value="文件规范与共享" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="739" width="120" height="60" as="geometry" />
@@ -67,7 +67,7 @@
           <mxGeometry x="390" y="577" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NljUxugOpLsNXprKk6w8-4" value="Audit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="658" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
