@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-1" value="工程部&lt;div&gt;工作内容与规范&lt;/div&gt;&lt;div&gt;（管培生）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="128" y="470" width="100" height="60" as="geometry" />
+          <mxGeometry x="140" y="460" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-3" value="出差售后（国内）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="90" width="120" height="60" as="geometry" />
@@ -55,7 +55,7 @@
           <mxGeometry x="390" y="414" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-8" value="视频与图片拍摄&lt;div&gt;（协助性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="496" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="658" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-9" value="文件规范与共享" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="739" width="120" height="60" as="geometry" />
