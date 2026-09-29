@@ -43,31 +43,31 @@
           <mxGeometry x="390" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-4" value="研发部产品性能对比或测试" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="172" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="171" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-5" value="工程部登记表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="255" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="252" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-6" value="SOP制作&lt;div&gt;（面向品牌）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="337" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="333" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-7" value="油边操作工艺&lt;div&gt;（面向厂客）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="414" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-8" value="视频与图片拍摄&lt;div&gt;（协助性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="502" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="496" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-9" value="文件规范与共享" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="738" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="739" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-17" value="其他" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NljUxugOpLsNXprKk6w8-1" value="培训PPT制作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="584" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="577" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NljUxugOpLsNXprKk6w8-4" value="Audit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="658" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
