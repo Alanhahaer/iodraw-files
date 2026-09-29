@@ -57,6 +57,9 @@
         <mxCell id="xp9yCLMbLNsEbTFeGwUJ-17" value="其他" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NljUxugOpLsNXprKk6w8-1" value="视频与图片拍摄&lt;div&gt;（协助性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
