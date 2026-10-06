@@ -1251,7 +1251,7 @@
         <mxCell id="6LMxBZBqa-RVrjVJVeQH-9" value="技术支援部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6LMxBZBqa-RVrjVJVeQH-1">
           <mxGeometry x="88" y="535" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6LMxBZBqa-RVrjVJVeQH-10" value="业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6LMxBZBqa-RVrjVJVeQH-1">
+        <mxCell id="6LMxBZBqa-RVrjVJVeQH-10" value="&lt;font color=&quot;#ff0000&quot;&gt;业务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6LMxBZBqa-RVrjVJVeQH-1">
           <mxGeometry x="270" y="-10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6LMxBZBqa-RVrjVJVeQH-11" value="工厂 / 品牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6LMxBZBqa-RVrjVJVeQH-1">
