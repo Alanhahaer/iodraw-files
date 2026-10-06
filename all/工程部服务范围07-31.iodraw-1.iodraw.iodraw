@@ -1480,7 +1480,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gIcZS2NyILvjkMeYgp2E" name="客户支援">
-    <mxGraphModel dx="1828" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1865,8 +1865,11 @@
             <mxPoint x="620" y="428.86" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uBfc-w7tcZ-SldlVF_I-21" value="&lt;ul&gt;&lt;li&gt;边油测试前置&lt;/li&gt;&lt;li&gt;验证光度板及颜色&lt;/li&gt;&lt;li&gt;产品性能测试&lt;/li&gt;&lt;li&gt;制作样版&lt;/li&gt;&lt;li&gt;出货验证&lt;/li&gt;&lt;li&gt;返工验证&lt;/li&gt;&lt;li&gt;制作客户样版&lt;/li&gt;&lt;li&gt;售后服务&lt;/li&gt;&lt;li&gt;工厂审核&lt;/li&gt;&lt;li&gt;开展培训&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="680" y="386" width="160" height="194" as="geometry" />
+        <mxCell id="_uBfc-w7tcZ-SldlVF_I-21" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;边油测试前置&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;验证光度板及颜色&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;产品性能测试&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;制作样版&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;出货验证&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;返工验证&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;制作客户样版&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;售后服务&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;工厂审核&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;开展培训&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;其他&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="680" y="350" width="160" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="_uBfc-w7tcZ-SldlVF_I-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="680" y="372" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
