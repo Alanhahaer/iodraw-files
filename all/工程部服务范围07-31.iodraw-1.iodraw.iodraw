@@ -1865,8 +1865,8 @@
             <mxPoint x="620" y="428.86" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uBfc-w7tcZ-SldlVF_I-21" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="680" y="386" width="100" height="80" as="geometry" />
+        <mxCell id="_uBfc-w7tcZ-SldlVF_I-21" value="&lt;ul&gt;&lt;li&gt;边油测试前置&lt;/li&gt;&lt;li&gt;验证光度板及颜色&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="680" y="386" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
