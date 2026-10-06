@@ -1218,7 +1218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="技术支援部门服务范围 （与业务相关）" id="UnYTgyUI2EWR1XCMLOrG">
-    <mxGraphModel dx="2020" dy="1183" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6LMxBZBqa-RVrjVJVeQH-0" />
         <mxCell id="6LMxBZBqa-RVrjVJVeQH-1" parent="6LMxBZBqa-RVrjVJVeQH-0" />
@@ -1239,14 +1239,6 @@
         </mxCell>
         <mxCell id="6LMxBZBqa-RVrjVJVeQH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6LMxBZBqa-RVrjVJVeQH-1" source="6LMxBZBqa-RVrjVJVeQH-9" target="6LMxBZBqa-RVrjVJVeQH-32">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6LMxBZBqa-RVrjVJVeQH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6LMxBZBqa-RVrjVJVeQH-1" source="6LMxBZBqa-RVrjVJVeQH-9" target="6LMxBZBqa-RVrjVJVeQH-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="239" y="560" />
-              <mxPoint x="239" y="1039" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="6LMxBZBqa-RVrjVJVeQH-9" value="技术支援部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6LMxBZBqa-RVrjVJVeQH-1">
           <mxGeometry x="88" y="535" width="120" height="50" as="geometry" />
