@@ -2080,11 +2080,11 @@
         <mxCell id="R3UuaQaKEPrhg94LHCtg-30" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Feedback&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
           <mxGeometry x="449" y="267.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R3UuaQaKEPrhg94LHCtg-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;下订单生产，并要求遵守相关规范&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
-          <mxGeometry x="250" y="500" width="170" height="30" as="geometry" />
+        <mxCell id="R3UuaQaKEPrhg94LHCtg-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Place an order for production and require the factory to comply with relevant regulations&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
+          <mxGeometry x="130" y="500" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R3UuaQaKEPrhg94LHCtg-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Complete the production order according to the brand&#39;s requirements&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
-          <mxGeometry x="170" y="439.5" width="330" height="30" as="geometry" />
+          <mxGeometry x="170" y="425" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R3UuaQaKEPrhg94LHCtg-33" value="" style="group" vertex="1" connectable="0" parent="R3UuaQaKEPrhg94LHCtg-1">
           <mxGeometry x="297.35" width="60" height="68" as="geometry" />
