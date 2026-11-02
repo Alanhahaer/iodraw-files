@@ -2037,8 +2037,8 @@
             <mxPoint x="70" y="368" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R3UuaQaKEPrhg94LHCtg-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1、要求技术支援&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2、要求开发新产品&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
-          <mxGeometry x="105" y="230" width="110" height="40" as="geometry" />
+        <mxCell id="R3UuaQaKEPrhg94LHCtg-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1、Request for technical support&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2、Request for new product&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
+          <mxGeometry x="75" y="230" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R3UuaQaKEPrhg94LHCtg-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="R3UuaQaKEPrhg94LHCtg-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2125,8 +2125,8 @@
             <mxPoint x="330" y="158.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R3UuaQaKEPrhg94LHCtg-42" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;反馈&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
-          <mxGeometry x="330" y="104.5" width="40" height="30" as="geometry" />
+        <mxCell id="R3UuaQaKEPrhg94LHCtg-42" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Feedback&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
+          <mxGeometry x="320" y="101.79" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R3UuaQaKEPrhg94LHCtg-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="R3UuaQaKEPrhg94LHCtg-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
