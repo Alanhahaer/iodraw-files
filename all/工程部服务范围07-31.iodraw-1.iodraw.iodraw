@@ -2007,8 +2007,8 @@
             <mxPoint x="331" y="339.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R3UuaQaKEPrhg94LHCtg-15" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1、咨询&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2、任务联络单&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
-          <mxGeometry x="340" y="276" width="90" height="40" as="geometry" />
+        <mxCell id="R3UuaQaKEPrhg94LHCtg-15" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1、Consult&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2、Technical support task contact&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
+          <mxGeometry x="340" y="276" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R3UuaQaKEPrhg94LHCtg-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="R3UuaQaKEPrhg94LHCtg-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
