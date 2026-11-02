@@ -1959,7 +1959,7 @@
         <mxCell id="R3UuaQaKEPrhg94LHCtg-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-50" y="130" width="890" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="R3UuaQaKEPrhg94LHCtg-2" value="技术支援部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
+        <mxCell id="R3UuaQaKEPrhg94LHCtg-2" value="TS Dept." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
           <mxGeometry x="280" y="350" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R3UuaQaKEPrhg94LHCtg-3" value="" style="group" vertex="1" connectable="0" parent="R3UuaQaKEPrhg94LHCtg-1">
@@ -2028,8 +2028,8 @@
         <mxCell id="R3UuaQaKEPrhg94LHCtg-20" value="Brands" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-18">
           <mxGeometry x="2" y="59" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R3UuaQaKEPrhg94LHCtg-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;提供应用和生产工艺方面的技术支援&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
-          <mxGeometry x="80" y="338.5" width="180" height="30" as="geometry" />
+        <mxCell id="R3UuaQaKEPrhg94LHCtg-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Provide technical support in terms of applications and production processes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="R3UuaQaKEPrhg94LHCtg-1">
+          <mxGeometry x="-10" y="338.5" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R3UuaQaKEPrhg94LHCtg-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="R3UuaQaKEPrhg94LHCtg-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
